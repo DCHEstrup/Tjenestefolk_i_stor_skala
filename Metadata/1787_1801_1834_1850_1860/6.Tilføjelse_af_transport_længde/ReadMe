@@ -1,1 +1,6 @@
-
+Med koderne i R i mappen, er der blevet tilføjet nye elementer til dataen.
+Ved hjælp af en oversigt fra centeret med lokationen af Herregårde, er der tilføjet  flere kolonner. Personerne er blevet sat sammen med herregården de arbejkder på ved hjælp af ID nummeret, som er ID nummeret på Herregården. Samme nummer er brugt til hver gård i Centerets oversigt
+Det har resulteret i flere nye kolonner
+- HerregaardRegion som er den region herregården er lokeret i. Baseret på centerets oversigt. 23 Herregårde var i den oversigt ikke med Region, så det har resulteret i 1428 NA. Kan ændres på sigt
+- HerregaardKommune, som følger samme princip og havde samme problem med 23 Herregårde der ikke havde det indskrevet, hvilket også gav 1428 NA. Kan ændres på sigt
+- Transport, som er distancen mellem fødesogn og Herregård. Regnet i KM. ved hjælp af koden i R i filen tilføjelse af transport. 
