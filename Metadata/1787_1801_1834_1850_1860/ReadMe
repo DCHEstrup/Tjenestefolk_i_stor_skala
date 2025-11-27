@@ -24,3 +24,6 @@ Der var dog problemer med Herregårdkommune og Herregårdregion, som krævede ek
 7. Rengøring af Herregårdkommune og Herregårdregion
 produceret af Andreas Emil Mikkelsen
 filen indeholder et skript til rensning af kolonnerne Herregårdkommune og Herregårdregion. Flere af informationerne manglede og andre er clusteret sammen
+
+8. Sammenlægningsscript 
+en script lavet til at tilføje de nye elementer til den samlet oversigt, brugt undervejs men indeholder alle sammenlægninger
