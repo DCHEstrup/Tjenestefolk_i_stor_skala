@@ -7,23 +7,28 @@ Indholder overvejelserne bag indsamlingen af den første del af dataen, ønske m
 
 1 skript til rengøring af data i openrefine
 2 beskrivelse af skriptet, hvad lægger den sammen
-3 andre ændringer i dataen
-4.2025_10_03_Lokationer
+3 R kode til sammenlægning
+4 andet skript
+5 andet beskrivelse
+6 R kode til sammenlægning
+7 andre ændringer i dataen lavet med R
+8 beskrivelse af de ændringer
+9.2025_10_03_Lokationer
 produceret af Amalie Borup Sørensen
 filen indeholder skript til tilføjelse af koordinator baseret på sogn/amt beskrivelse
 
-5.Tanker vedrørende folketællingsdatabase
+10.Tanker vedrørende folketællingsdatabase
 produceret af Amalie Borup Sørensen
 Indeholder overvejelserne bag tilføjelse af koordinatior
 
-6.Tilføjelse_af_transport_længde
+11.Tilføjelse_af_transport_længde
 produceret af Andreas Emil Mikkelsen
 baseret på Dansk Center for Herregårdsforsknings tidligere arbejde med herregårde, er der tilføjet flere informationer til dataen. 
 Der var dog problemer med Herregårdkommune og Herregårdregion, som krævede ekstra rengøring af dataen.
 
-7. Rengøring af Herregårdkommune og Herregårdregion
+12. Rengøring af Herregårdkommune og Herregårdregion
 produceret af Andreas Emil Mikkelsen
 filen indeholder et skript til rensning af kolonnerne Herregårdkommune og Herregårdregion. Flere af informationerne manglede og andre er clusteret sammen
 
-8. Sammenlægningsscript 
-en script lavet til at tilføje de nye elementer til den samlet oversigt, brugt undervejs men indeholder alle sammenlægninger
+13. Usikkerhedssript 
+
