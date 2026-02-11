@@ -16,6 +16,7 @@ Heri kan det ses hvad hvert af de nye variationer i kolonnerne indeholder.
 3 R kode til sammenlægning
 De renset kolonner er blevet tilføjet til dataen indsamlet af Søren, så både råinformationerne og de renset kolonner kommer med videre.
 Sammenlægningen er sket med RStudios. De renset kolonner har fået deres gamle navn + _Clean 
+Derudover tilføjes også et personid kaldet ID_person, for at sikre at alle person får deres eget unikke identifikationsnummer. 
 
 4 andet skript
 Kolonnen Sted og Nærmere lokation er renset med dette skript i OprenRefine
