@@ -5,34 +5,34 @@ Det er sat op i kronologisk rækkefølge, så følger man denne rækkefølge vil
 produceret af Søren Broberg Knudsen
 Indholder overvejelserne bag indsamlingen af den første del af dataen, ønske med projektet og de første udfordringer, så som afgrænsning af herregården
 
-1 skript til rengøring af data i openrefine
+1. skript til rengøring af data i openrefine
 på baggrund af Andreas Emil Mikkelsens arbejde med rengøring af Sørens indsamlet data, er kolonnen Herregård, Folketælling, Alder, Fødested, Position i husstanden, 
 Trossamfund, Civilstand, Arbejde/titel blevet renset og kolonnen Køn_K/M tilføjet med dette script. Programmet OpenRefine er brugt til rengøringen.
 
-2 beskrivelse af skriptet, hvad lægger den sammen
+2. beskrivelse af skriptet, hvad lægger den sammen
 Denne wordfil indeholder en samlet oversigt over de ændringer der er blevet laver gennem rensning i Openrefine. 
 Heri kan det ses hvad hvert af de nye variationer i kolonnerne indeholder.
 
-3 R kode til sammenlægning
+3. R kode til sammenlægning
 De renset kolonner er blevet tilføjet til dataen indsamlet af Søren, så både råinformationerne og de renset kolonner kommer med videre.
 Sammenlægningen er sket med RStudios. De renset kolonner har fået deres gamle navn + _Clean 
 Derudover tilføjes også et personid kaldet ID_person, for at sikre at alle person får deres eget unikke identifikationsnummer. 
 
-4 andet skript
+4. andet skript
 Kolonnen Sted og Nærmere lokation er renset med dette skript i OprenRefine
 
-5 andet beskrivelse
+5. andet beskrivelse
 Denne wordfil indeholder en samlet oversigt over de ændringer der er blevet laver gennem rensning i Openrefine. 
 Heri kan det ses hvad hvert af de nye variationer i kolonnerne indeholder.
 
-6 R kode til sammenlægning
+6. R kode til sammenlægning
 De renset kolonner er blevet tilføjet til dataen indsamlet af Søren, så både råinformationerne og de renset kolonner kommer med videre.
 Sammenlægningen er sket med RStudios. De renset kolonner har fået deres gamle navn + _Clean 
 
-7 andre ændringer i dataen lavet med R
+7. andre ændringer i dataen lavet med R
 Nogle kolonner har fået deres informationer indtastet i forkerte kolonner, denne kode i R ændre disse
 
-8 beskrivelse af de ændringer
+8. beskrivelse af de ændringer
 Denne Wordfil indeholder oversigt over de andre ændringer lavet i R
 
 9.2025_10_03_Lokationer
