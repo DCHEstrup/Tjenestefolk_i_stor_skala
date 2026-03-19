@@ -54,3 +54,7 @@ filen indeholder et skript til rensning af kolonnerne Herregårdkommune og Herre
 
 13. Usikkerhedssript 
 
+14. Sammenlægning af handicaps kolonner
+Senere folketællinger har en seperaret kolonne med registreret handicaps. Der er også registret nogle i de tidligere, men som en del af Position i Hustand eller Arbejdstitel. 
+Med Json filen i Openrefine er de to kolonner dupleret og renset, så alle handicaps kom frem. Disse er med R scriptet blevet tilføjet til den større datamængde.
+
