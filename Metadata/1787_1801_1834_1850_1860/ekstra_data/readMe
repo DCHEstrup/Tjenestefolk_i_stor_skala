@@ -1,1 +1,6 @@
-
+Efter alt data fra Søren blev rengjort og uploaded til Supabase blev det opdagede at en del herregårde manglede folketællinger i forskellige år.
+Et dokument blev oprettet med alle mangler og de blev tjekket igennem.
+Grøn = Data er fundet og tilføjet
+Gul = Data mangler og har ikke kunne blive fundet
+Rød = Herregården er ikke i brug det år, så det mangler data fordi det ikke findes
+Hvid = Herregården er i Sønderjylland og det derfor ikke muligt at tilføje data, da der ikke har været folketællinger i Sønderjylland i de samme år.
