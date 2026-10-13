@@ -1,0 +1,810 @@
+ID,Oversigtsnavn,Nuværende navn,Region,Kommune,Adresse,HjemmesideLAT,HjemmesideLONG',Lat,Long
+1,Agerkrog,Agerkrog,Syddanmark; Syd- og Sønderjylland,Varde,Agerkrogvej 9;6862;Tistrup,,,,
+2,Agersbøl,Agersbøl Gods,Syddanmark; Syd- og Sønderjylland,Hedensted,Agersbølvej 25;7100;Vejle,55.791780,9.596975,55.791780,9.596975
+3,Agerupgaard,Agerup,Sjælland; Lolland/Falster/Møn,Guldborgsund,Agerupvej 14;4990;Sakskøbing,54.782932,11.606413,54.782932,11.606413
+4,Aggersvold,Aggersvold Gods,Sjælland,Holbæk,Aggersvoldvej 21;4450;Jyderup,55.689068,11.428225,55.689068,11.428225
+5,Aggersborggaard,Aggersborggaard A/S,Nordjylland,Vesthimmerlands,Aggersborgvej 170;9670;Løgstør,56.993664,9.255038,56.993664,9.255038
+6,Albæk,Albæk Hovedgård,Nordjylland,Rebild,Hjortholmvej 41;9541;Suldrup,56.852051,9.735154,56.852051,9.735154
+7,Algestrup,Algistrup Gods,Sjælland,Kalundborg,Galtebjergvej 5;4591;Føllenslev,55.722122,11.320412,55.722122,11.320412
+8,Allindemaglegaard,Allindemaglegården,Sjælland,Ringsted,Allindemaglevej 60;4100;Ringsted,55.506634,11.725497,55.506634,11.725497
+9,Allinggaard,Allinggård Gods,Midtjylland,Silkeborg,Allinggårdsvej 154;8643;Ans By,56.268906,9.633632,56.268906,9.633632
+10,Alslevgaard,Alslevgaard Gods,Sjælland,Faxe,Køgevej 30A;4653;Karise,55.283642,12.177406,55.283642,12.177406
+11,Anhof,Anhof,Syddanmark; Fyn og øer,Nyborg,Anhof Allé 14;5871;Frørup,55.219952,10.725458,55.219952,10.725458
+12,Annebjerggaard,Annebjerggård Hovedgård - Odsherreds Kulturhistoriske Museum,Sjælland,Odsherred,Annebjerg Stræde 1;4500;Nykøbing S,55.902058,11.667,55.902058,11.667
+13,Arreskov,Arreskov,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Arreskovvej 12;5600;Fåborg,55.164455,10.314855,55.164455,10.314855
+14,Arresødal,Arresødal Slot,Sjælland,Halsnæs,Arresødalvej 100;3300 Frederiksværk,55.976643,12.031401,55.976643,12.031401
+15,Asdalgaard,Asdal Hovedgård,Nordjylland,Hjørring,Allingdamvej 50;9850;Hirtshals,57.555702,10.027982,57.555702,10.027982
+16,Asmildkloster,Asmildkloster Landbrugsskole,Midtjylland,Viborg,Asmildklostervej 1;8800;Viborg,56.446819,9.424743,56.446819,9.424743
+17,Assendrup,Assendrup Hovedgård,Sjælland,Næstved,Assendrupvej 10;4690;Haslev,55.333675,11.845537,55.333675,11.845537
+18,Asserstrup,Asserstrup,Sjælland; Lolland/Falster/Møn,Lolland,Asserstrup 4;4900;Nakskov,54.881802,11.112189,54.881802,11.112189
+19,Astrup,Astrup,Midtjylland,Skive,Astrup Allé 1;7870;Roslev,56.674892,9.09435,56.674892,9.09435
+20,Astrupgaard,Astrup Gods,Sjælland,Kalundborg,Astrupvej 11;4450;Jyderup,55.65118,11.353854,55.65118,11.353854
+21,Attrupgaard,Attrupgaard,Nordjylland,Aalborg,Attrupvej 17;9310;Vodskov,57.117077,10.049111,57.117077,10.049111
+22,Augustenborg Hovedgaard,Augustenborg Hovedgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Osbækvej 15;6440;Augustenborg,54.947475,9.865632,54.947475,9.865632
+23,Aunsbjerg,Aunsbjerg,Midtjylland,Silkeborg,Aunsbjergvej 2;8620;Kjellerup,56.321697,9.416065,56.321697,9.416065
+24,Avnbølgaard,Avnbølgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Avnbølgårdvej 10;6400;Sønderborg,54.954437,9.650334,54.954437,9.650334
+25,Avnsøgaard,Avnsøgaard,Sjælland,Kalundborg,Avnsøgårds Allé 10;4470;Svebølle,55.643871,11.323944,55.643871,11.323944
+26,Avnø,Avnøgård,Sjælland,Vordingborg,Flyvervej 26;4750;Lundby,55.088783,11.766651,55.088783,11.766651
+27,Ausumgaard,Ausumgård,Midtjylland,Struer,Holstebrovej 101;7560;Hjerm,56.429138,8.601911,56.429138,8.601911
+28,Baggesvogn,Baggesvogn Gods,Nordjylland,Hjørring,Baggevognsvej 499;9870;Sindal,57.505898,10.146224,57.505898,10.146224
+29,Ballegaard (Sønderjylland),Ballegård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Ballebrovej 17;6400;Sønderborg,54.994488,9.669565,54.994488,9.669565
+30,Bangsbo,Kystmuseet Bangsbo,Nordjylland,Frederikshavn,Dronning Margrethes Vej 6;9900;Frederikshavn,57.41972,10.503051,57.41972,10.503051
+31,Barritskov,Barritskov,Midtjylland,Hedensted,Barritskovvej 34;7150;Barrit,55.706837,9.920294,55.706837,9.920294
+32,Basnæs,Basnæs Gods,Sjælland,Slagelse,Basnæsvej 150;4230;Skælskør,55.21043,11.344244,55.21043,11.344244
+33,Bavelse,Bavelse,Sjælland,Næstved,Skovridervej 11;4171;Glumsø,55.337528,11.645019,55.337528,11.645019
+34,Beldringe,Beldringe Gods,Sjælland,Vordingborg,Hastrupvej 3C;4720;Præstø,55.107449,11.991103,55.107449,11.991103
+35,Benzonsdal,Benzonsdal,Hovedstaden,Ishøj,Allévej 60;2635;Ishøj,55.623165,12.255583,55.623165,12.255583
+36,Berritsgaard,Berritzgaard,Sjælland; Lolland/Falster/Møn,Guldborgsund,Kogangen 8;4990;Sakskøbing,54.821732,11.665616,54.821732,11.665616
+37,Bidstrupgaard (Midtjylland),Bidstrup Gods,Midtjylland,Favrskov,Bidstrupvej 1;8870;Langå,56.347881,9.934718,56.347881,9.934718
+38,Bidstrupgaard (Sjælland),Psykiatrisk Center Sct. Hans,Sjælland,Roskilde,Boserupvej 2;4000;Roskilde,55.650558,12.068446,55.650558,12.068446
+39,Billesborg,Billesborg Hovedgård,Sjælland,Køge,Billesborgvej 59A;4600;Køge,55.426502,12.199606,55.426502,12.199606
+40,Billesbølle,Billesbøllegård,Syddanmark; Fyn og øer,Middelfart,Billesbøllevej 15;5463;Harndrup,55.43198,10.030805,55.43198,10.030805
+41,Billeshave,Billeshave Efterskole,Syddanmark; Fyn og øer,Middelfart,Billeshavevej 51;5500;Middelfart,55.536186,9.802907,55.536186,9.802907
+42,Billeskov,Billeskov,Syddanmark; Fyn og øer,Assens,Billeskovvej 9;5560;Aarup,55.347706,9.951152,55.347706,9.951152
+43,Birkelse,Birkelse,Nordjylland,Jammerbugt,Kammerherrensvej 59;9440;Aabybro,57.15062,9.707975,57.15062,9.707975
+44,Birkendegaard,Birkendegaard,Sjælland,Kalundborg,Holbækvej 187;4400;Kalundborg,55.673756,11.2072,55.673756,11.2072
+45,Birkumgaard,Birkumgård,Nordjylland,Jammerbugt,Limfjordsgade 184;9440;Aabybro,57.073532,9.735937,57.073532,9.735937
+46,Bisgaard,Bisgaard,Midtjylland,Samsø,Bisgaard Forte 14;8305;Samsø,55.860809,10.585944,55.860809,10.585944
+47,Biskopstorp,Biskopstorp,Syddanmark; Fyn og øer,Langeland,Biskopstorpvej 3;5900;Rudkøbing,54.944962,10.782103,54.944962,10.782103
+48,Bjellerup,Bjellerup Ladegård,Midtjylland,Randers,Dronningborg Boulevard 81;8930;Randers,56.475117,10.058871,56.475117,10.058871
+49,Bjergbygaard,Bjergbygård,Sjælland,Holbæk,Høedvej 79;4440;Mørkøv,55.675396,11.479836,55.675396,11.479836
+50,Bjerre,Bjerregård,Midtjylland,Hedensted,Bjerggårdsvej 9;7160;Tørring,55.894989,9.580377,55.894989,9.580377
+51,Bjørnemose,Bjørnemose,Syddanmark; Fyn og øer,Svendborg,Bjørnemosevej 40;5700;Svendborg,55.059006,10.660181,55.059006,10.660181
+52,Bjørnkær,Bjørnkær,Nordjylland,Jammerbugt,Markhusevej 22;9440;Åbybro,57.139519,9.824137,57.139519,9.824137
+53,Bjørum,Bjørum Hovedgaard I/S,Nordjylland,Aalborg,Hvorupgårdvej 82;9400;Nørresundby,57.122746,9.923149,57.122746,9.923149
+54,Blangstedgaard,Blangstedgård,Syddanmark; Fyn og øer,Odense,Blangstedgårds Allé 100;5220;Odense SØ,55.381325,10.444526,55.381325,10.444526
+55,Blansgaard,Blansgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Blansgårdsmark 1;6400;Sønderborg,54.98299,9.664952,54.98299,9.664952
+56,Blidstrup,Blidstrup Efterskole,Nordjylland,Morsø,Blidstrupmark 23;7990;Øster Assels,56.715332,8.692292,56.715332,8.692292
+57,Boddum Bisgaard,Boddum Bisgård,Nordjylland,Thisted,Boddum Bisgårdvej 2;7760;Hurup Thy,56.714203,8.47665,56.714203,8.47665
+58,Boller (Nordjylland),Boller Hovedgård,Nordjylland,Hjørring,Bollervej 85;9830;Tårs,57.384312,10.094809,57.384312,10.094809
+59,Boller (Østjylland),Boller Slot,Midtjylland,Horsens,Boller Slotsvej 20;8700;Horsens,55.837841,9.896592,55.837841,9.896592
+60,Boltinggaard,Boltinggaard Gods,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Kokskovvej 28;5750;Ringe,55.215698,10.448738,55.215698,10.448738
+61,Bonderup (Sjælland/Holbæk),Bonderup,Sjælland,Holbæk,Bonderupvej 148;4370;Store Merløse,55.568142,11.687955,55.568142,11.687955
+62,Bonderup (Sjælland/Korsør),Bonderup,Sjælland,Slagelse,Bonderupvej 75;4220;Korsør,55.313599,11.195023,55.313599,11.195023
+63,Borreby,Borreby Herreborg,Sjælland,Slagelse,Borrebyvej 41;4230;Skelskør,55.232449,11.290104,55.232449,11.290104
+64,Brahesborg,Brahesborg,Syddanmark; Fyn og øer,Assens,Brahesborgvej 32;5610;Assens,55.280331,9.951693,55.280331,9.951693
+65,Brahesholm,Brahesholm,Syddanmark; Fyn og øer,Assens,Bogensevej 130;5620;Glamsbjerg,55.312225,10.052276,55.312225,10.052276
+66,Brahetrolleborg,Brahetrolleborg Skov og Landbrug,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Reventlowsvej 1;5600;Faaborg,55.153187,10.351138,55.153187,10.351138
+67,Bramming,Sydvestjyllands Efterskole,Syddanmark; Syd- og Sønderjylland,Esbjerg,Kirkebrovej 7;6740;Bramming,55.485664,8.696645,55.485664,8.696645
+68,Bramsløkke,Bramsløkke,Sjælland; Lolland/Falster/Møn,Guldborgsund,Bramsløkkevej 7;4880;Nysted,54.729244,11.661868,54.729244,11.661868
+69,Bramstrup,Bramstrup,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Bramstrup 1;5792;Årslev,55.321793,10.397852,55.321793,10.397852
+70,Brandberg,Brandbjerg Højskole,Syddanmark; Syd- og Sønderjylland,Vejle,Brandbjergvej 12;7300;Jelling,55.770905,9.471747,55.770905,9.471747
+71,Bratskov,Herregården Bratskov,Nordjylland,Jammerbugt,Fredensdal 8;9460;Brovst,57.101742,9.518981,57.101742,9.518981
+72,Brattingsborg,Brattingsborg,Midtjylland,Samsø,Brattingsborg 1;8305;Samsø,55.782665,10.585547,55.782665,10.585547
+73,Bredeshave,Marjatta - Bredeshave Hovedgård,Sjælland,Næstved,Strandvejen 11;4733;Tappernøje,55.155464,12.013445,55.155464,12.013445
+74,Bregentved,Bregentved,Sjælland,Faxe,Moltkesvej 78;4690;Haslev,55.307144,12.006456,55.307144,12.006456
+75,Brejninggaard,Brejninggaard Efterskole,Midtjylland,Ringkøbing-Skjern,Brejninggårdsvej 12;6971;Spjald,56.115417,8.512814,56.115417,8.512814
+76,Bremersvold,Bremersvold,Sjælland; Lolland/Falster/Møn,Lolland,Kærstrupvej 9;4960;Holeby,54.680897,11.527104,54.680897,11.527104
+77,Brobygaard,Brobygård,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Karlsbjergvej 39;5672;Broby,55.229065,10.268525,55.229065,10.268525
+78,Brockdorff,Brockdorff,Syddanmark; Fyn og øer,Kerteminde,Brockdorff Allé 40;5390;Martofte,55.568317,10.640429,55.568317,10.640429
+79,Broholm,Broholm Gods,Syddanmark; Fyn og øer,Svendborg,Broholmsvej 32;5884;Gudme,55.137177,10.728155,55.137177,10.728155
+80,Broksø,Broksø Gods,Sjælland,Næstved,Broksøvej 60;4160;Herlufmagle,55.306343,11.834787,55.306343,11.834787
+81,Broløkke (Langeland),Broløkke,Syddanmark; Fyn og øer,Langeland,Hedevejen 33;5932;Humble,54.769043,10.721988,54.769043,10.721988
+82,Broløkke (Fyn),Gl. Broløkke,Syddanmark; Fyn og øer,Kerteminde,Hverringevej 11;5300;Kerteminde,55.475121,10.678944,55.475121,10.678944
+83,Brorupgaard,Brorup,Sjælland,Slagelse,Kalundborgvej 115;4200;Slagelse,55.43914,11.319837,55.43914,11.319837
+84,Brusgaard,Den Skandinaviske Designhøjskole,Midtjylland,Randers,Brusgårdsvej 25;8960;Randers SØ,56.405254,10.108224,56.405254,10.108224
+85,Brændegaard,Brændegaard,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Brændegårdsvej 15A;5600;Faaborg,55.125931,10.391566,55.125931,10.391566
+86,Buderupholm,Buderupholm Hovedgård,Nordjylland,Rebild,Buderupholmvej 44;9530;Støvring,"56,858829","9,856057",56.858829,9.856057
+87,Burholt,Gl. Buurholt Hovedgaard,Nordjylland,Brønderslev,Buurholtvej 11;9700;Brønderslev,"57,251461","9,988452",57.251461,9.988452
+88,Bustrup,Skolecenteret Bustrup Hovedgård,Midtjylland,Skive,Sønder Lemvej 3;7860;Spøttrup,"56,585392","8,811401",56.585392,8.811401
+89,Bygholm,Bygholm,Midtjylland,Horsens,Schüttesvej 17;8700;Horsens,"55,86483","9,824947",55.86483,9.824947
+90,Bækkeskov,Bækkeskov,Sjælland,Næstved,Bækkeskov Allé 1;4733;Tappernøje,"55,19067","12,015075",55.19067,12.015075
+91,Bækmark,Bækmark,Midtjylland,Lemvig,Bækmarksbrovej 14;7660;Bækmarksbrovej,"56,420826","8,298258",56.420826,8.298258
+92,Bøgsted,Bøgsted Hovedgaard,Nordjylland,Hjørring,Bøgstedvej 170;9800;Hjørring,"57,471485","10,103434",57.471485,10.103434
+93,Børglumkloster,Børglum Kloster,Nordjylland,Hjørring,Børglum Klostervej 255;9760;Vrå,"57,36935","9,798517",57.36935,9.798517
+94,Bøstrup,Bødstrup Gods,Sjælland,Slagelse,Bildsøvej 9;4200;Slagelse,"55,475239","11,227374",55.475239,11.227374
+95,Baadesgaard,Baadesgaard,Sjælland; Lolland/Falster/Møn,Lolland,Bådesgårdsvej 18;4983;Dannemare,"54,770405","11,226315",54.770405,11.226315
+96,Charlottendal,Antvorskov Kaserne - Charlottedal,Sjælland,Slagelse,Charlottedal Allé 4;4200;Slagelse,"55,382092","11,381065",55.382092,11.381065
+97,Christiansdal,Dalum Kloster,Syddanmark; Fyn og øer,Odense,Dalumvej 105;5250;Odense SØ,"55,363392","10,374091",55.363392,10.374091
+98,Clausholm,Clausholm Gods,Midtjylland,Favrskov,Clausholmvej 308;8370;Hadsted,"56,384655","10,169879",56.384655,10.169879
+99,Constantinsborg,Constantinsborg A/S,Midtjylland,Aarhus,Storskovvej 14;8260;Viby J,"56,139435","10,076543",56.139435,10.076543
+100,Dalbygaard,Dalbyegård,Sjælland; Lolland/Falster/Møn,Guldborgsund,Nykøbingvej 127;4850;Stubbekøbing,"54,845985","12,010431",54.845985,12.010431
+101,Dallund,Dallund Slot,Syddanmark; Fyn og øer,Nordfyns,Dallundvej 63;5471;Søndersø,"55,485115","10,278797",55.485115,10.278797
+102,Dalsgaard,Dalsgaard Hovedgaard,Nordjylland,Mariagerfjord,Hobrovej 35;9560;Hadsund,"56,709393","10,090124",56.709393,10.090124
+103,Damsbo,Damsbo Gods,Syddanmark; Fyn og øer,Assens,Strandbyvej 62;5683;Haarby,"55,183228","10,143157",55.183228,10.143157
+104,Damsgaard,Damsgård Hovedgård,Nordjylland,Morsø,Damsgårdsvej 5;7900;Nykøbing M,"56,782196","8,653661",56.782196,8.653661
+105,Dansted,Dansted,Sjælland; Lolland/Falster/Møn,Lolland,Nakskov Landevej 4;4970;Rødby,"54,730206","11,38998",54.730206,11.38998
+106,Davrup,Davrup Hovedgaard,Sjælland,Kalundborg,Davrupvej 7;4450;Jyderup,"55,682549","11,344523",55.682549,11.344523
+107,Dejbjerglund,Dejbjerg Præstegård,Midtjylland,Ringkøbing-Skjern,Bundsbækvej 2;6900;Skjern,"55,999825","8,422538",55.999825,8.422538
+108,Demstrup,Demstrup Hovedgaard A/S,Midtjylland,Randers,Demstrupvej 42A;8970;Havndal,"56,624271","10,251262",56.624271,10.251262
+109,Donneruplund,Donneruplund,Syddanmark; Syd- og Sønderjylland,Vejle,Donneruplundvej 7;7323;Give,"55,853165","9,260242",55.853165,9.260242
+110,Dragsgaard,Dragsgaard,Nordjylland,Rebild,Dragsgaardsvej 6;9574;Bælum,"56,834854","10,14979",56.834854,10.14979
+111,Dragsholm,Dragsholm Slot,Sjælland,Odsherred,Dragsholm Allé 1;4534;Hørve,"55,77124","11,390793",55.77124,11.390793
+112,Dronningborg,Dronningborg Hovedgård,Midtjylland,Randers,Dronningborg Allé 40;8900;Randers,"56,481949","10,071953",56.481949,10.071953
+113,Dronninggaard,Næsseslottet,Hovedstaden,Rudersdal,Dronninggårds Allé 136;2840;Holte,"55,807362","12,432756",55.807362,12.432756
+114,Dronninglund,Dronninglund Slot,Nordjylland,Brønderslev,Slotsgade 8; 9330;Dronninglund,"57,155109","10,261495",57.155109,10.261495
+115,Dueholm,Morslands Historiske Museum - Dueholm Kloster,Nordjylland,Morsø,Dueholmgade 9;7900;Nykøbing M,"56,794601","8,852825",56.794601,8.852825
+116,Dybvad (Østjylland),Dybvad,Midtjylland,Odder,Gyllingvej 31;8300;Odder,"55,918072","10,162333",55.918072,10.162333
+117,Dybvad (Nordjylland),Dybvad Hovedgård,Nordjylland,Frederikshavn,Dybvadgårdsvej 8;9352;Dybvad,"57,278492","10,359613",57.278492,10.359613
+118,Dønnerup,Dønnerup A/S,Sjælland,Holbæk,Dønnerupvej 18;4450;Jyderup,"55,621063","11,418538",55.621063,11.418538
+119,Edelgave,Edelgave Gods ApS,Hovedstaden,Egedal,Edelgavevej 28;2765;Smørum,"55,725544","12,256569",55.725544,12.256569
+120,Egebjerg,Egebjerg,Nordjylland,Hjørring,Egebjergvej 125;9800;Hjørring,"57,439629","10,125815",57.439629,10.125815
+121,Egebjerggaard,Egebjerggaard,Syddanmark; Fyn og øer,Nordfyns,Alleen 12;5450;Otterup,"55,601589","10,348431",55.601589,10.348431
+122,Egeløkke,Egeløkke,Syddanmark; Fyn og øer,Langeland,Egeløkkevej 3;5953;Tranekær,"55,044262","10,858763",55.044262,10.858763
+123,Egemarke,Egemarke Gods,Sjælland,Kalundborg,Nykøbingvej 57;4591;Føllenslev,"55,734478","11,364458",55.734478,11.364458
+124,Egense Kloster,Egensekloster,Nordjylland,Aalborg,Egensevej 200;9280;Storvorde,"56,964256","10,249693",56.964256,10.249693
+125,Egeskov,Egeskov,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Egeskovgade 18;5772;Kværndrup,"55,176964","10,488334",55.176964,10.488334
+126,Eget,Eget,Nordjylland,Frederikshavn,Egetsvej 15;9900;Frederikshavn,"57,400475","10,344427",57.400475,10.344427
+127,Egholm (Sjælland),Egholm Slot,Sjælland,Lejre,Trehøjevej 45;4070;Kirke Hyllinge,"55,732857","11,915766",55.732857,11.915766
+128,Egholm (Lolland),Egholm,Sjælland; Lolland/Falster/Møn,Guldborgsund,Egholmvej 42;4880;Nysted,"54,661644","11,649143",54.661644,11.649143
+129,Ellingegaard,Ellingegård Gods,Sjælland,Odsherred,Ellingevej 51;4573;Højby,"55,894814","11,572519",55.894814,11.572519
+130,Ellinggaard,Ellinggaard,Nordjylland,Frederikshavn,Mariendalsvej 20;9900;Frederikshavn,"57,470207","10,468223",57.470207,10.468223
+131,Elvedgaard,Elvedgård Hovedgård,Syddanmark; Fyn og øer,Nordfyns,Elvedgårdsvej 6;5474;Veflinge,"55,474937","10,132152",55.474937,10.132152
+132,Endrupholm,Endrupholm,Syddanmark; Syd- og Sønderjylland,Esbjerg,Hovedvej A1 28;6740;Bramming,"55,520382","8,716985",55.520382,8.716985
+133,Engelholm,Engelholm Gods,Sjælland,Næstved,Engelholmvej 3;4733;Tappenøje,"55,141132","11,981758",55.141132,11.981758
+134,Engelsholm,Engelsholm Slot,Syddanmark; Syd- og Sønderjylland,Vejle,Engelsholmvej 6;7182;Bredsten,"55,715225","9,319166",55.715225,9.319166
+135,Engestofte,Engestofte Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Engestoftevej 95;4930;Maribo,"54,762672","11,561923",54.762672,11.561923
+136,Enslevgaard,Enslevgaard,Midtjylland,Favrskov,Enslevvej 23;8860;Ulstrup,"56,353855","9,847506",56.353855,9.847506
+137,Erholm,Erholm Gods A/S,Syddanmark; Fyn og øer,Assens,Erholmvej 25;5560;Aarup,"55,396061","10,048912",55.396061,10.048912
+138,Eriksholm,Eriksholm Slot,Sjælland,Holbæk,Eriksholmvej 40;4390;Vipperød,"55,681892","11,793301",55.681892,11.793301
+139,Eskildstrup,Eskildstrup,Sjælland,Ringsted,Eskildstrupvej 39;4100;Ringsted,"55,377056","11,879685",55.377056,11.879685
+140,Eskær (Midtjylland),Eskjær,Midtjylland,Skive,Eskjærvej 21;7870;Roslev,"56,694046","9,114394",56.694046,9.114394
+141,Eskær (Nordjylland),Eskjær,Nordjylland,Hjørring,Mosbjergvej 510;9870;Sindal,"57,510147","10,284957",57.510147,10.284957
+142,Espe,Espe,Sjælland,Slagelse,Espevej 56;4242;Boeslunde,"55,291904","11,244166",55.291904,11.244166
+143,Estrup,Estrup Hovedgård,Syddanmark; Syd- og Sønderjylland,Vejen,Esbjergvej 51;6600;Vejen,"55,494122","9,060982",55.494122,9.060982
+144,Estruplund,Estruplund,Midtjylland,Norddjurs,Estruplundvej 37;8950;Ørsted,"56,552486","10,360306",56.552486,10.360306
+145,Estvadgaard,Estvadgaard,Midtjylland,Skive,Herningvej 41;7800;Skive,"56,531693","8,978537",56.531693,8.978537
+146,Faddersbøl,Faddersbølgård,Nordjylland,Thisted,Tyskebakken 7;7700;Thisted,"56,924549","8,448008",56.924549,8.448008
+147,Falkensteen,Falkensteen Gods,Sjælland,Slagelse,Falkensteenvej 20;4200;Slagelse,"55,3577","11,366934",55.3577,11.366934
+148,Farumgaard,Farumgård,Hovedstaden,Furesø,Søvej 8;3520;Farum,"55,805904","12,360515",55.805904,12.360515
+149,Favrskov,Favrskov Hovedgård,Midtjylland,Favrskov,Faurskovvej 22;8370;Hadsten,"56,336422","9,990745",56.336422,9.990745
+150,Fiskbæk,Gråsten Landbrugsskole,Syddanmark; Syd- og Sønderjylland,Sønderborg,Fiskbækvej 25;6300;Gråsten,"54,941162","9,599993",54.941162,9.599993
+151,Fjællebro,Fjellebro Gods,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Sundgårdsvej 8;5750;Ringe,"55,188656","10,454353",55.188656,10.454353
+152,Flenstofte,Flenstofte,Syddanmark; Fyn og øer,Assens,Helnæsvej 1;5683;Haarby,"55,21402","9,9982",55.21402,9.9982
+153,Flintholm,Flintholm,Syddanmark; Fyn og øer,Svendborg,Filippavej 57;5762;Vester Skeringe,"55,111237","10,42806",55.111237,10.42806
+154,Fodbygaard,Fodbygård Gods,Sjælland,Næstved,Toftegårdsvej 15;4700;Næstved,"55,231991","11,708181",55.231991,11.708181
+155,Fovslet,Fovslet,Syddanmark; Syd- og Sønderjylland,Kolding,Fovsletgårdsvej 3;6580;Vamdrup,"55,423615","9,414673",55.423615,9.414673
+156,Fraugdegaard,Fraugdegaard,Syddanmark; Fyn og øer,Odense,Fraugdegårds Allé 7;5220;Odense SØ,"55,35228","10,498295",55.35228,10.498295
+157,Frederikdal,Frederiksdal,Sjælland; Lolland/Falster/Møn,Lolland,Frederiksdalsvej 30;4912;Harpelunde,"54,904308","11,040832",54.904308,11.040832
+158,Frederiksdal,Frederiksdal Slot,Hovedstaden,Lyngby-Taarbæk,Hummeltoftevej 187;2830;Virum,"55,78249","12,450813",55.78249,12.450813
+159,Fredsholm,Fredsholm Gods,Sjælland; Lolland/Falster/Møn,Lolland,Fredsholms Allé 15;4900;Nakskov,"54,809917","11,097947",54.809917,11.097947
+160,Frihedslund,Frihedslund Læregård,Sjælland,Kalundborg,Sæbyvej 60;4291;Ruds Vedby,"55,564808","11,328443",55.564808,11.328443
+161,Frijsenborg,Frijsenborg,Midtjylland,Favrskov,Pøt Møllevej 15;8450;Hammel,"56,264904","9,893493",56.264904,9.893493
+162,Frijsendal,Frijsendal,Midtjylland,Favrskov,Randersvej 140;8450;Hammel,"56,281658","9,877235",56.281658,9.877235
+163,Frisenvold,Frisenvold Hovedgård,Midtjylland,Randers,Frisenvoldsvej 22;8940;Randers SV,"56,41473","9,970816",56.41473,9.970816
+164,Frøslevgaard,Frøslevgård,Nordjylland,Morsø,Elsøvej 262;7900;Nykøbing M,"56,809986","8,724589",56.809986,8.724589
+165,Frøstrupgaard,Frøstrupgård,Syddanmark; Syd- og Sønderjylland,Varde,Frøstrupvej 181;6830;Nørre Nebel,"55,742146","8,41795",55.742146,8.41795
+166,Fuglebjerggaard,Fuglebjerggaard,Sjælland,Næstved,Næstvedvej 1;4250;Fuglebjerg,"55,30621","11,550688",55.30621,11.550688
+167,Fuglsang,Fuglsang Herregaard,Sjælland; Lolland/Falster/Møn,Guldborgsund,Nystedvej 73;4891;Toreby L,"54,721951","11,797661",54.721951,11.797661
+168,Fuglsig,Fuglsig Hovedgård,Nordjylland,Hjørring,Fuglsigvej 161;9800;Hjørring,"57,430542","10,02201",57.430542,10.02201
+169,Fussingø,Fussingø,Midtjylland,Randers,Vasevej 9;8920;Randers,"56,473526","9,843547",56.473526,9.843547
+170,Fyrendal,Fuirendal,Sjælland,Næstved,Fyrendalvej 14;4262;Sandved,"55,249298","11,512123",55.249298,11.512123
+171,Fænø,Fænø Gods,Syddanmark; Fyn og øer,Middelfart,Oddevejen 14;5500;Middelfart,"55,488655","9,694046",55.488655,9.694046
+172,Fævejle,Fævejle,Midtjylland,Norddjurs,Lyngbyvej 113;8570;Trustrup,"56,387993","10,73249",56.387993,10.73249
+173,Førslevgaard,Førslevgård Gods,Sjælland,Næstved,Førslevvej 54;4250;Fuglebjerg,"55,27808","11,578496",55.27808,11.578496
+174,Faarevejle,Faarevejle,Syddanmark; Fyn og øer,Langeland,Faarevejle Allé 4;5900;Rudkøbing,"54,917057","10,706662",54.917057,10.706662
+175,Faarupgaard,Fårupgård Ungecenter,Syddanmark; Syd- og Sønderjylland,Vejle,Fårupgårdvej 5;7300;Jelling,"55,737656","9,40166",55.737656,9.40166
+176,Gammel Estrup,Gammel Estrup Danmarks Herregårdsmuseum,Midtjylland,Norddjurs,Randersvej 2;8963;Auning,"56,43795","10,344315",56.43795,10.344315
+177,Gammel Hammelmose,Gammel Hammelmose,Nordjylland,Brønderslev,Hammelmosevej 21;9700;Brønderslev,"57,279102","9,8116",57.279102,9.8116
+178,Gammel Kirstineberg,Gammel Kirstineberg Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Kraghave Gaabensevej 97;4800;Nykøbing F,"54,795834","11,868818",54.795834,11.868818
+179,Gammel Køgegaard,Gammel Kjøgegaard,Sjælland,Køge,Gammel Køgegaard 3;4600;Køge,"55,459335","12,166857",55.459335,12.166857
+180,Gammel Lellingegaard,Gammel Lellingegaard,Sjælland,Køge,Bakkeledet 9;4600;Køge,"55,469971","12,110941",55.469971,12.110941
+181,Gammel Oremandsgaard,Gammel Oremandsgaard,Sjælland,Vordingborg,Neblevej 15;4720;Præstø,"55,079571","12,104612",55.079571,12.104612
+182,Gammel Viffertsholm,Gammel Wiffertsholm,Nordjylland,Rebild,Wiffertholmvej 15;9560;Hadsund,"56,787624","10,105555",56.787624,10.105555
+183,Gammel Vraa,Vraa Slotshotel,Nordjylland,Aalborg,Gammel Vråvej 66;9382;Tylstrup,"57,193684","9,925312",57.193684,9.925312
+184,Gammelgaard (Lolland),Gammelgaard Gods,Sjælland; Lolland/Falster/Møn,Lolland,Ryde Kirkevej 1;4920;Søllested,"54,787868","11,289727",54.787868,11.289727
+185,Gammelgaard (Sønderjylland),Gammelgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Gammelgaard 10;6440;Augustenborg,"54,954559","9,936504",54.954559,9.936504
+186,Gavnø,Gavnø Slot,Sjælland,Næstved,Gavnø 2;4700;Næstved,"55,188839","11,725112",55.188839,11.725112
+187,Gedsergaard,Gjedsergaard,Sjælland; Lolland/Falster/Møn,Guldborgsund,Gedsergaard 1;4874;Gedser,"54,648308","11,882426",54.648308,11.882426
+188,Gelskov,Gelskov,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Gelskovvej 10;5750;Ringe,"55,219337","10,321412",55.219337,10.321412
+189,Gerdrup,Gjerdrup,Sjælland,Slagelse,Gerdrupvej 135;4230;Skælskør,"55,278908","11,313025",55.278908,11.313025
+190,Gersdorffslund,Gersdorffslund,Midtjylland,Odder,Gersdorffslundvej 1;8300;Odder,"55,914459","10,233342",55.914459,10.233342
+191,Giesegaard,Giesegaard Gods,Sjælland,Ringsted,Giesegårdvej 72;4100;Ringsted,"55,417553","11,936495",55.417553,11.936495
+192,Gislingegaard,Gislingegård,Sjælland,Holbæk,Gislingegård 3;4532;Gislinge,"55,718712","11,543539",55.718712,11.543539
+193,Gisselfeld,Gisselfeld Kloster,Sjælland,Faxe,Gisselfeldvej 5;4690;Haslev,"55,289207","11,970302",55.289207,11.970302
+194,Gjeddesdal,Gjeddesdal Gods,Sjælland,Greve,Gjeddesdalsvej 76;2670;Greve,"55,608051","12,228345",55.608051,12.228345
+195,Gjessinggaard,Gjessinggaard Gods,Midtjylland,Randers,Udbyhøjvej 496;8900;Randers,"56,554665","10,179145",56.554665,10.179145
+196,Gjorslev,Gjorslev Gods,Sjælland,Stevns,Gjorslevvej 20;4660;Store Heddinge,"55,354282","12,381472",55.354282,12.381472
+197,Glomstrup,Glomstrup,Nordjylland,Morsø,Glomstrupvej 38;7970;Redsted M,"56,72287","8,602996",56.72287,8.602996
+198,Glorup,Glorup Gods,Syddanmark; Fyn og øer,Nyborg,Glorupvej 34;5853;Ørbæk,"55,20631","10,707685",55.20631,10.707685
+199,Gottesgabe,Gottesgabe,Sjælland; Lolland/Falster/Møn,Lolland,Knubbeløkkevej 19;4900;Nakskov,"54,769337","11,03112",54.769337,11.03112
+200,Gram,Gram Slot,Syddanmark; Syd- og Sønderjylland,Haderslev,Slotsvej 54;6510;Gram,"55,294956","9,056511",55.294956,9.056511
+201,Grevensvænge,Grevensvænge,Sjælland,Næstved,Grevensvængevej 25;4700;Næstved,"55,196651","11,807925",55.196651,11.807925
+202,Grinderslevkloster,Grinderslev Kloster,Midtjylland,Skive,Klostervej 33;7870;Roslev,"56,694633","9,06846",56.694633,9.06846
+203,Grubbesholm,Grubbesholm,Midtjylland,Ringkøbing-Skjern,Tarmvej 164;6893;Hemmet,"55,837246","8,323831",55.837246,8.323831
+204,Grønnessegaard,Grønnessegaard Gods,Sjælland,Halsnæs,Amtsvejen 280;3390;Hundested,"55,953716","11,922334",55.953716,11.922334
+205,Grøngrøft,Grøngrøft Slot,Syddanmark; Syd- og Sønderjylland,Aabenraa,Grøngrøftvej 16;6200;Aabenraa,"54,9501","9,549977",54.9501,9.549977
+206,Gudumkloster,Gudumkloster,Midtjylland,Lemvig,Fabjergvej 176;7620;Lemvig,"56,519493","8,459241",56.519493,8.459241
+207,Gudumlund,Gudumlund Hovedgaard,Nordjylland,Aalborg,Møllebrovej 2;9280;Storvorde,"56,940296","10,105417",56.940296,10.105417
+208,Gunderslevholm,Gunderslevholm Hovedgaard,Sjælland,Næstved,Gunderslevvej 13;4160;Herlufmagle,"55,314762","11,671139",55.314762,11.671139
+209,Gunderup,Gunderup,Sjælland,Køge,Gunderupvej 14;4600;Køge,"55,401573","12,16648",55.401573,12.16648
+210,Gunderupgaard,Gunderupgaard,Nordjylland,Vesthimmerlands,Gunderupvej 116;9640;Farsø,"56,827141","9,226382",56.827141,9.226382
+211,Gyldenholm,Gyldenholm Gods,Sjælland,Slagelse,Gyldenholmvej 6;4200;Slagelse,"55,339405","11,462216",55.339405,11.462216
+212,Gyldensteen,Gyldensteen,Syddanmark; Fyn og øer,Nordfyns,Gyldesteensvej 101;5400;Bogense,"55,563946","10,145229",55.563946,10.145229
+213,Gyllingnæs,Gyllingnæs A/S,Midtjylland,Odder,Gyllingnæsvej 80;8300;Odder,"55,853348","10,155654",55.853348,10.155654
+214,Gærumgaard,Gærumgaard,Nordjylland,Frederikshavn,Brønderslevvej 93;9900;Frederikshavn,"57,406116","10,447414",57.406116,10.447414
+215,Gaardbogaard,Gaardbogaard,Nordjylland,Frederikshavn,Gårdbovej 300;9982;Ålbæk,"57,586311","10,349415",57.586311,10.349415
+216,Hagenskov,Hagenskov Gods,Syddanmark; Fyn og øer,Assens,Slots Allé 1;5631;Ebberup,"55,227547","9,987699",55.227547,9.987699
+217,Hagestedgaard,Hagestedgaard,Sjælland,Holbæk,Nykøbingvej 84;4300;Holbæk,"55,746029","11,619608",55.746029,11.619608
+218,Hagsholm,Haxholm,Midtjylland,Favrskov,Haxholmvej 80;8870;Langå,"56,325443","9,853238",56.325443,9.853238
+219,Hald,Hald Hovedgaard,Midtjylland,Viborg,Ravnsbjergvej 76;8800;Viborg,"56,393002","9,343905",56.393002,9.343905
+220,Halkærgaard,Halkærgård,Nordjylland,Brønderslev,Hallundkær 99;9700;Brønderslev,"56,9174","9,575709",56.9174,9.575709
+221,Halstedkloster,Halsted Kloster,Sjælland; Lolland/Falster/Møn,Lolland,Ullerslevvej 42;4900;Nakskov,"54,846764","11,225655",54.846764,11.225655
+222,Hammergaard,Hammergård,Midtjylland,Hedensted,Hammervej 2;7160;Tørring,"55,890793","9,446646",55.890793,9.446646
+223,Handbjerg Hovgaard,Handbjerg Hovgaard,Midtjylland,Holstebro,Handbjerg Hovgårdvej 5;7830;Vinderup,"56,464539","8,733322",56.464539,8.733322
+224,Hanstedgaard,Hanstedgaard,Midtjylland,Horsens,Egebjergvej 55;8700;Horsens,"55,888447","9,83171",55.888447,9.83171
+225,Haraldskær,Haraldskær Sinatur Hotel & Konference,Syddanmark; Syd- og Sønderjylland,Vejle,Skibetvej 140;7100;Vejle,"55,702477","9,438954",55.702477,9.438954
+226,Haraldslund,Haraldslund,Midtjylland,Favrskov,Haraldslundvej 8;8382;Hinnerup,"56,282001","10,10121",56.282001,10.10121
+227,Harrestedgaard,Harrested Hovedgård,Sjælland,Næstved,Slagelsevej 283;4700;Næstved,"55,277531","11,606652",55.277531,11.606652
+228,Harritslevgaard,Harridslevgaard Slot,Syddanmark; Fyn og øer,Bogense,Assensvej 3;5400;Bogense,"55,542061","10,102217",55.542061,10.102217
+229,Havgaard,Haugaard,Sjælland; Lolland/Falster/Møn,Lolland,Nakskovvej 130;4913;Horslunde,"54,90329","11,191067",54.90329,11.191067
+230,Haven,Haven,Nordjylland,Frederikshavn,Havensvej 25;9300;Sæby,"57,302444","10,385328",57.302444,10.385328
+231,Havløkkegaard,Havløkkegaard,Sjælland; Lolland/Falster/Møn,Lolland,Reersnæs Kirkevej 346;4941;Bandholm,"54,832886","11,439232",54.832886,11.439232
+232,Havnø,Havnø,Nordjylland,Mariagerfjord,Havnøvej 38;9560;Hadsund,"56,715633","10,162635",56.715633,10.162635
+233,Hegnet,Hegnet Hovedgård,Midtjylland,Skive,Hegnetvej 19;7870;Roslev,"56,734535","8,99784",56.734535,8.99784
+234,Hejselt,Hejselt Hovedgård,Nordjylland,Frederikshavn,Tryvej 172;9750;Østervrå,"57,302307","10,282381",57.302307,10.282381
+235,Hellekildegaard,Helligkildegård,Midtjylland,Struer,Meldgårdsvej 8A;7790;Thyholm,"56,638428","8,551793",56.638428,8.551793
+236,Hellerup,Hellerup,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Hellerupvej 20;5750;Ringe,"55,285091","10,573566",55.285091,10.573566
+237,Hellestrupgaard,Hellestrup Hovedgård,Sjælland,Sorø,Flinterupvej 3;4180;Sorø,"55,508507","11,619853",55.508507,11.619853
+238,Helsingegaard,Helsingegård,Sjælland,Kalundborg,Vinde Helsingevej 44;4281;Gørlev,"55,518604","11,192659",55.518604,11.192659
+239,Hennegaard,Hennegaard,Syddanmark; Syd- og Sønderjylland,Varde,Strandvejen 260;6854;Henne,"55,728069","8,230086",55.728069,8.230086
+240,Herlufsholm,Herlufsholm Skole og Gods,Sjælland,Næstved,Herlufsholm Allé 170;4700;Næstved,"55,245438","11,747894",55.245438,11.747894
+241,Herningsholm,Herningsholm,Midtjylland,Herning,Herregårdsparken 1;7400;Herning,"56,145653","8,998855",56.145653,8.998855
+242,Herpinggaard,Herpinggaard ApS,Midtjylland,Lemvig,Transvej 75;7620;Lemvig,"56,502647","8,142246",56.502647,8.142246
+243,Herschendsgave,Herschendsgave,Midtjylland,Skanderborg,Herschendsgavevej 28;8660;Skanderborg,"55,991505","10,00969",55.991505,10.00969
+244,Hersomgaard,Hersomgård,Midtjylland,Viborg,Teglgårdvej 20;9500;Hobro,"56,555695","9,552593",56.555695,9.552593
+245,Hessel (Nordjylland),Museet Herregården Hessel,Nordjylland,Vesthimmerlands,Hesselvej 40;9640;Farsø,"56,687626","9,191407",56.687626,9.191407
+246,Hessel (Djursland),Hessel Gods,Midtjylland,Norddjurs,Aarhusvej 75;8500;Grenå,"56,385311","10,87245",56.385311,10.87245
+247,Hesselagergaard,Hesselagergaard Gods,Syddanmark; Fyn og øer,Svendborg,Hesselagergårdsvej 20;5874;Hesselager,"55,158512","10,763517",55.158512,10.763517
+248,Hesselmed,Hesselmed,Syddanmark; Syd- og Sønderjylland,Varde,Hesselmedvej 8;6840;Oksbøl,"55,616516","8,290449",55.616516,8.290449
+249,Hevringholm,Hevringholm Gods,Midtjylland,Norddjurs,Hevringholmvej 10;8961;Allingåbro,"56,511005","10,443281",56.511005,10.443281
+250,Himmestrup,Himmestrup Hovedgård,Midtjylland,Viborg,Himmestrupvej 34;8850;Bjerringbro,"56,42223","9,632184",56.42223,9.632184
+251,Hindemaegaard,Hindemae,Syddanmark; Fyn og øer,Nyborg,Hindemaevej 86;5540;Ullerslev,"55,347561","10,664221",55.347561,10.664221
+252,Hindsels,Herregården Hindsels,Midtjylland,Struer,Hindselsvej 24;7790;Thyholm,"56,674171","8,579079",56.674171,8.579079
+253,Hindsgavl,Hindsgavl Slot,Syddanmark; Fyn og øer,Middelfart,Hindsgavl Allé 7;5500;Middelfart,"55,504986","9,689332",55.504986,9.689332
+254,Hjermitslevgaard,Hjermitslevgård,Nordjylland,Brønderslev,Lærkevej 21;9700;Brønderslev,"57,278843","9,885105",57.278843,9.885105
+255,Hjortholm (Langeland),Hjortholm Gods,Syddanmark; Fyn og øer,Langeland,Haveskovvej 17;5932;Humble,"54,822678","10,757364",54.822678,10.757364
+256,Hofmansgave,Hofmansgave,Syddanmark; Fyn og øer,Nordfyns,Hofmannsgavevej 25;5450;Otterup,"55,537594","10,482356",55.537594,10.482356
+257,Holbæk Ladegaard,Kunsthøjskolen i Holbæk - Holbæk Slots Ladegård,Sjælland,Holbæk,Ladegårdsalléen 5;4300;Holbæk,"55,704018","11,690287",55.704018,11.690287
+258,Holbækgaard,Holbækgaard Gods,Midtjylland,Norddjurs,Holbækgårdsvej 20;8950;Ørsted,"56,564705","10,274926",56.564705,10.274926
+259,Holckenhavn,Holckenhavn Gods,Syddanmark; Fyn og øer,Nyborg,Holckenhavn 1;5800;Nyborg,"55,29266","10,775259",55.29266,10.775259
+260,Hollufgaard,Hollufgård,Syddanmark; Fyn og øer,Odense,Hollufgårds Allé 12;5220;Odense SØ,"55,354435","10,441031",55.354435,10.441031
+261,Holmegaard (Sjælland),Holmegaard,Sjælland,Næstved,Holmegaard Hovedbygning 1;4684;Holmegård,"55,274696","11,835585",55.274696,11.835585
+262,Holmegaard (Langeland),Holmegård,Syddanmark; Fyn og øer,Langeland,Gulstavvej 7;5935;Bagenkop,"54,749863","10,707857",54.749863,10.707857
+263,Holmgaard,Holmgård,Midtjylland,Viborg,Herredsvejen 56;8832;Skals,"56,585644","9,461139",56.585644,9.461139
+264,Holmstrupgaard,Ungdomshjemmet Holmstrupgård,Midtjylland,Aarhus,Holmstrupgårdvej 39;8220;Brabrand,"56,174488","10,118164",56.174488,10.118164
+265,Holsegaard,Holsegaard,Syddanmark; Fyn og øer,Middelfart,Holsevej 26;5464;Brenderup Fyn,"55,496506","10,026237",55.496506,10.026237
+266,Holsteinborg,Holsteinborg Gods,Sjælland,Slagelse,Ørslevvej 334;4243;Rude,"55,214806","11,463399",55.214806,11.463399
+267,Holstenshus,Holstenshuus,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Slotsalleen 8;5600;Faaborg,"55,10323","10,310195",55.10323,10.310195
+268,Hostrup,Hostrup Hovedgård,Midtjylland,Skive,Hostrupvej 41;7860;Spøttrup,"56,56427","8,762692",56.56427,8.762692
+269,Hundsbæk,Hundsbæk,Syddanmark; Syd- og Sønderjylland,Vejen,Hundsbækvej 6;6600;Vejen,"55,522343","9,070899",55.522343,9.070899
+270,Hvanstrup,Hvanstrup,Nordjylland,Nordjylland,Hornumvej 95;9640;Farsø,"56,818073","9,346651",56.818073,9.346651
+271,Hvedholm,Hvedholm Slotshotel,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Hvedholm Slot 1;5600;Faaborg,"55,105495","10,19167",55.105495,10.19167
+272,Hverringe,Hverringe,Syddanmark; Fyn og øer,Kerteminde,Hverringevej 206;5300;Kerteminde,"55,4799","10,699323",55.4799,10.699323
+273,Hvidkilde,Hvidkilde Gods,Syddanmark; Fyn og øer,Svendborg,Fåborgvej 260;5700;Svendborg,"55,072777","10,534005",55.072777,10.534005
+274,Hvidstedgaard,Hvidstedgaard,Nordjylland,Hjørring,Hvidstedvej 75A;9830;Tårs,"57,395473","10,071647",57.395473,10.071647
+275,Hvolgaard,Hvolgaard,Midtjylland,Hedensted,Hvolgårdsvej 21;7160;Tørring,"55,826973","9,513768",55.826973,9.513768
+276,Hæstrupgaard,Hæstrupgård,Nordjylland,Hjørring,Hæstrupvej 166;9800;Hjørring,"57,416809","9,964733",57.416809,9.964733
+277,Høgholm,Høegholm Gods,Midtjylland,Syddjurs,Høegholmvej 6;8570;Trustrup,"56,326385","10,717649",56.326385,10.717649
+278,Høgholt,Høgholt,Nordjylland,Hjørring,Hørmestedvej 130;9870;Sindal,"57,453403","10,224968",57.453403,10.224968
+279,Højbygaard,Højbygaard,Sjælland; Lolland/Falster/Møn,Lolland,Højbygårdvej 20;4970;Rødby,"54,696236","11,448738",54.696236,11.448738
+280,Højgaard,Højgaard,Syddanmark; Syd- og Sønderjylland,Vejle,Højgårdvej 20;7100;Vejle,"55,7663","9,50951",55.7663,9.50951
+281,Højris,Højriis Slot,Nordjylland,Morsø,Højrisvej 3;7900;Nykøbing Mors,"56,738605","8,805373",56.738605,8.805373
+282,Højstrup,Højstrup Hovedgård,Sjælland,Stevns,Højstrupvej 10;4673;Rødvig Stevns,"55,242767","12,332807",55.242767,12.332807
+283,Hørbygaard,Hørbygaard Gods,Sjælland,Holbæk,Tuse Næs Vej 7;4300;Holbæk,"55,739044","11,666301",55.739044,11.666301
+284,Hørbylund,Hørbylund Hovedgård,Nordjylland,Frederikshavn,Hørbylundvej 95;9300;Sæby,"57,357494","10,3688",57.357494,10.3688
+285,Høstemark,Høstemark,Nordjylland,Aalborg,Hjortevej 3;9280;Storvorde,"56,942505","10,215136",56.942505,10.215136
+286,Høvdingsgaard,Høvdingsgård Gods,Sjælland,Vordingborg,Kalvehavevej 29;4735;Mern,"55,037895","12,083406",55.037895,12.083406
+287,Idagaard,Idagaard,Sjælland,Slagelse,Idagårds Allé 10;4200;Slagelse,"55,386791","11,353443",55.386791,11.353443
+288,Isgaard,Iisgård Gods,Midtjylland,Syddjurs,Isgårdsvej 7;8420;Knebel,"56,1688","10,414856",56.1688,10.414856
+289,Ingvorstrup,Ingvorstrup Hovedgaard,Midtjylland,Norddjurs,Ingvorstrupvej 7;8500;Grenå,"56,401222","10,789226",56.401222,10.789226
+290,Irup,Irup Hovedgaard,Nordjylland,Thisted,Irupvej 2;7752;Snedsted,"56,833221","8,529147",56.833221,8.529147
+291,Iselingen,Iselingen Gods,Sjælland,Vordingborg,Iselingen 1;4760;Vordingborg,"55,014828","11,927265",55.014828,11.927265
+292,Jensgaard,Jensgaard,Midtjylland,Hedensted,Jensgårdvej 11;8700;Horsens,"55,80294","10,030965",55.80294,10.030965
+293,Jershave,Jershave,Syddanmark; Fyn og øer,Kerteminde,Holevangsvej 46;5300;Kerteminde,"55,414627","10,665318",55.414627,10.665318
+294,Jerstrup,Herregaarden Jerstrup,Syddanmark; Fyn og øer,Nordfyns,Jerstrupvej 44;5400;Bogense,"55,560154","10,204984",55.560154,10.204984
+295,Jomfruens Egede,Jomfruens Egede,Sjælland,Faxe,Kirkevej 7;4640;Faxe,"55,280949","12,090941",55.280949,12.090941
+296,Juellinge,Juellinge,Sjælland,Stevns,Juellingevej 2;4653;Karise,"55,301991","12,234766",55.301991,12.234766
+297,Juellingsholm,Juellingsholm,Syddanmark; Syd- og Sønderjylland,Billund,Tarm Landevej 21;7260;Sønder Omme,"55,838001","8,870157",55.838001,8.870157
+298,Juellund,Juellund,Sjælland,Køge,Slimmingevej 30;4100;Ringsted,"55,414368","12,039785",55.414368,12.039785
+299,Juelsberg,Juelsberg Slot,Syddanmark; Fyn og øer,Nyborg,Juelsbergvej 11;5800;Nyborg,"55,341618","10,763994",55.341618,10.763994
+300,Julianelyst,Julianelyst Gods,Midtjylland,Horsens,Julianelystvej 1;8752;Østbirk,"55,94318","9,756879",55.94318,9.756879
+301,Jungetgaard,Jungetgård,Midtjylland,Skive,Jungetgårdvej 26;7870;Roslev,"56,765617","9,107474",56.765617,9.107474
+302,Jungshoved,Jungshovedgård,Sjælland,Vordingborg,Hovmarken 11;4720;Præstø,"55,089817","12,118954",55.089817,12.118954
+303,Juulskov,Juulskov,Syddanmark; Fyn og øer,Nyborg,Juulskovvej 12;5853;Ørbæk,"55,300491","10,687612",55.300491,10.687612
+304,Jægerspris,Jægerspris Slot,Sjælland,Frederikssund,Slotsgården 20;3630;Jægerspris,"55,855999","11,97423",55.855999,11.97423
+305,Jølbygaard,Jølbygaard,Nordjylland,Morsø,Jølbygårdsvej 15;7950;Erslev,"56,829239","8,696471",56.829239,8.696471
+306,Kabbel,Kabbel Hovedgård,Midtjylland,Lemvig,Kabbelvej 55;7620;Lemvig,"56,570866","8,31358",56.570866,8.31358
+307,Kalbygaard,Kalbygård,Midtjylland,Skanderborg,Hovedvejen 24;8670;Låsby,"56,150848","9,779403",56.150848,9.779403
+308,Kalundborg Ladegaard,Kaalund Kloster,Sjælland,Kalundborg,Klosterparkvej 7;4400;Kalundborg,"55,681583","11,085225",55.681583,11.085225
+309,Kalø,Kalø,Midtjylland,Syddjurs,Grenåvej 14;8410;Rønde,"56,298862","10,498755",56.298862,10.498755
+310,Karlsfelt,Karlsfeldt,Sjælland; Lolland/Falster/Møn,Guldborgsund,Hovedgårdsvej 3;4850;Stubbekøbing,"54,878189","12,050786",54.878189,12.050786
+311,Karmark,Karmark Hovedgård,Midtjylland,Viborg,Vester Vellingvej 12;8850;Bjerringbro,"56,439777","9,76114",56.439777,9.76114
+312,Kastrup,Castrup Hovedgaard,Sjælland,Næstved,Rejnstrupvej 2;4250;Fuglebjerg,"55,322399","11,569455",55.322399,11.569455
+313,Katholm,Katholm Hovedgård,Midtjylland,Norddjurs,Katholm 1;8500;Grenå,"56,360004","10,892612",56.360004,10.892612
+314,Katrinebjerg,Cathrineberg Gods,Sjælland,Høje-Taastrup,Cathrinebergvej 3A;2630;Taastrup,"55,691631","12,244436",55.691631,12.244436
+315,Katrineholm,Cathrineholm I/S,Sjælland,Næstved,Slagelsevej 29;4250;Fuglebjerg,"55,32695","11,469169",55.32695,11.469169
+316,Kattrup,Kattrup,Sjælland,Kalundborg,Kattrupvej 24;4450;Jyderup,"55,611618","11,372311",55.611618,11.372311
+317,Kegnæsgaard,Kegnæsgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Kegnæsgård 4;6470;Sydals,"54,873684","9,992134",54.873684,9.992134
+318,Kjeldgaard,Kjeldgård,Midtjylland,Skive,Kjeldgårdsvej 9;7870;Roslev,"56,794693","9,059426",56.794693,9.059426
+319,Kjeldkær,Keldkær,Syddanmark; Syd- og Sønderjylland,Vejle,Kjeldkærvej 3;7182;Bredsten,"55,685349","9,37626",55.685349,9.37626
+320,Kjellerup,Kjellerup Hovedgård,Nordjylland,Mariagerfjord,Randersvej 30;9550;Mariager,"56,599258","9,996945",56.599258,9.996945
+321,Klarupgaard,Klarupgaard,Nordjylland,Aalborg,Egensevej 155;9270;Klarup,"57,018456","10,064257",57.018456,10.064257
+322,Klavsholm,Clausholm,Nordjylland,Brønderslev,Hellumvej 10;9320;Hjallerup,"57,181683","10,135594",57.181683,10.135594
+323,Klingstrup,Klingstrup Hovedgaard,Syddanmark; Fyn og øer,Svendborg,Klingstrupvej 11A;5881;Skårup Fyn,"55,108757","10,689773",55.108757,10.689773
+324,Klintholm,Klintholm Gods,Sjælland; Møn,Vordingborg,Klintholm Allé 1B;4791;Borre,"54,978542","12,502923",54.978542,12.502923
+325,Knabstrup,Knabstrup,Sjælland,Holbæk,Knabstrupvej 51;4420;Regstrup,"55,6525","11,566443",55.6525,11.566443
+326,Knivholt,Knivholt Hovedgaard,Nordjylland,Frederikshavn,Hjørringvej 180a;9900;Frederikshavn,"57,445854","10,47938",57.445854,10.47938
+327,Knudseje,Knudseje,Nordjylland,Frederikshavn,Knudsejevej 4;9352;Dybvad,"57,279026","10,297165",57.279026,10.297165
+328,Knuthenborg,Knuthenborg Gods,Sjælland; Lolland/Falster/Møn,Lolland,Knuthenborg park 4;4941;Bandholm,"54,828232","11,488577",54.828232,11.488577
+329,Knuthenlund,Knuthenlund,Sjælland; Lolland/Falster/Møn,Lolland,Knuthenlundvej 7B;4952;Stokkemarke,"54,860222","11,352636",54.860222,11.352636
+330,Kogsbøl,Kogsbøl Ladegård,Syddanmark; Syd- og Sønderjylland,Tønder,Kogsbøl Ladegårdvej 2;6280;Højer,"55,023483","8,718718",55.023483,8.718718
+331,Kokkedal,Kokkedal Slotshotel,Nordjylland,Jammerbugt,Kokkedalsvej 17;9460;Brovst,"57,064266","9,479904",57.064266,9.479904
+332,Kollerup,Kollerup Gods,Midtjylland,Favrskov,Kollerupvej 2A;8370;Hadsten,"56,320374","10,062442",56.320374,10.062442
+333,Kongsdal,Kongsdal Gods,Sjælland,Holbæk,Kongsdalvej 5A;4440;Mørkøv,"55,617306","11,551225",55.617306,11.551225
+334,Kongstedlund,Kongstedlund Gods,Nordjylland,Aalborg,Kongstedlundvej 18;9293;Kongerslev,"56,873341","10,149134",56.873341,10.149134
+335,Kornerup,Kornerupgård,Sjælland,Roskilde,Ravnshøjvej 11;4000;Roskilde,"55,631405","11,984521",55.631405,11.984521
+336,Korsebøllegaard,Korsebølle,Syddanmark; Fyn og øer,Langeland,Korsebøllevej 6;5953;Tranekær,"55,015102","10,851876",55.015102,10.851876
+337,Korselitse,Corselitze Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Tromnæs Alleen 2C;4800;Nykøbing F,"54,767815","12,021265",54.767815,12.021265
+338,Korsøgaard,Korsøgård,Nordjylland,Mariagerfjord,Hannerupvej 108;9620;Aalestrup,"56,668472","9,555283",56.668472,9.555283
+339,Kovstrup,Kovstrup,Nordjylland,Thisted,Gadegårdsvej 8;7752;Snedsted,"56,853809","8,439441",56.853809,8.439441
+340,Krabbesholm (Midtjylland),Krabbesholm Højskole,Midtjylland,Skive,Krabbesholm Allé 15;7800;Skive,"56,572903","9,05107",56.572903,9.05107
+341,Krabbesholm (Sjælland),Krabbesholm Gods,Sjælland,Lejre,Krabbesholmvej 14;4070;Kirke Hyllinge,"55,728298","11,951995",55.728298,11.951995
+342,Kragerupgaard,Kragerup Gods,Sjælland,Kalundborg,Kragerupgaardsvej 33;4291;Ruds Vedby,"55,510033","11,378257",55.510033,11.378257
+343,Krastrup,Krastrup,Nordjylland,Aalborg,Løgstørvej 131;9240;Nibe,"56,970371","9,419481",56.970371,9.419481
+344,Krengerup,Krengerup,Syddanmark; Fyn og øer,Assens,Krengerupvej 96;5620;Glamsbjerg,"55,30925","10,119455",55.30925,10.119455
+345,Krenkerup,Krenkerup,Sjælland; Lolland/Falster/Møn,Guldborgsund,Krenkerupvej 33;4990;Sakskøbing,"54,777344","11,670713",54.777344,11.670713
+346,Kristiansdal,Christiansdal,Sjælland; Lolland/Falster/Møn,Lolland,Erantisvej 135;4900;Nakskov,"54,854294","11,1411",54.854294,11.1411
+347,Kristianssæde,Christianssæde,Sjælland; Lolland/Falster/Møn,Lolland,Kristianssædevej 3;4930;Maribo,"54,757992","11,353866",54.757992,11.353866
+348,Krogerup,Krogerup Højskole,Sjælland,Fredensborg,Krogerupvej 13;3050;Humlebæk,"55,973545","12,534748",55.973545,12.534748
+349,Krogsdal,Krogsdal,Midtjylland,Holstebro,Skjernvej 133;7500;Holstebro,"56,329556","8,615327",56.329556,8.615327
+350,Krumstrup,Krumstrup,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Krumstrupvej 10;5750;Ringe,"55,220043","10,522484",55.220043,10.522484
+351,Kvelstrup,Quelstrup,Midtjylland,Syddjurs,Quelstrupvej 1;8420;Knebel,"56,189083","10,392875",56.189083,10.392875
+352,Kvistrup,Quistrup,Midtjylland,Struer,Hjermvej 59;7600;Struer,"56,463917","8,613265",56.463917,8.613265
+353,Kyø,Kyø Hovedgaard,Nordjylland,Aalborg,Kyøvej 2;9240;Nibe,"56,944099","9,522295",56.944099,9.522295
+354,Kærbygaard,Kjærbygaard,Midtjylland,Aarhus,Kærbyvej 11;8200;Aarhus N,"56,210964","10,129194",56.210964,10.129194
+355,Kærgaard,Kjærgård Landbrugsskole,Syddanmark; Syd- og Sønderjylland,Esbjerg,Kjærgårdsvej 31;6740;Bramming,"55,421852","8,712744",55.421852,8.712744
+356,Kærsgaard (Fyn),Kærsgård Gods,Syddanmark; Fyn og øer,Middelfart,Rugårdsvej 160;5464;Brenderup Fyn,"55,478382","9,979913",55.478382,9.979913
+357,Kærsgaard (Nordjylland),Kjærsgaard,Nordjylland,Hjørring,Kærsgårdvej 14;9850;Hirtshals,"57,515747","9,919213",57.515747,9.919213
+358,Kærsholm,Neder Kjærsholm Hovedgaard,Midtjylland,Silkeborg,Vattrupvej 28;8620;Kjellerup,"56,288738","9,350341",56.288738,9.350341
+359,Kærstrup,Kærstrup,Sjælland; Lolland/Falster/Møn,Lolland,Kærstrupvej 17;4960;Holeby,"54,691544","11,5259",54.691544,11.5259
+360,Kærup,Kærup,Sjælland,Ringsted,Kærup Allé 3;4100;Ringsted,"55,459827","11,823041",55.459827,11.823041
+361,Kølskegaard,Kølskegaard,Nordjylland,Brønderslev,Kjølskevej 94;9700;Brønderslev,"57,249748","10,116304",57.249748,10.116304
+362,Kørup,Kjørup Hovedgård,Syddanmark; Fyn og øer,Nordfyns,Kørupvej 18;5450;Otterup,"55,579491","10,321461",55.579491,10.321461
+363,Kaas,Kaas Hovedgaard,Midtjylland,Skive,Kåsvej 44;7860;Spøttrup,"56,607845","8,699129",56.607845,8.699129
+364,Ladegaard,Ladegård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Ladegårdsvej 8;6300;Gråsten,"54,948627","9,519659",54.948627,9.519659
+365,Lammehave,Lammehave,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Lammehavevej 8;5750;Ringe,"55,260334","10,482055",55.260334,10.482055
+366,Landting,Landting,Midtjylland,Holstebro,Landtingvej 23;7830;Vinderup,"56,497185","8,754485",56.497185,8.754485
+367,Langesø,Langesø,Syddanmark; Fyn og øer,Nordfyns,Langesøvej 146;5462;Morud,"55,433064","10,200714",55.433064,10.200714
+368,Langholt,Langholt,Nordjylland,Aalborg,Graverhusvej 74;9310;Vodskov,"57,120651","10,129613",57.120651,10.129613
+369,Ledreborg,Ledreborg,Sjælland,Lejre,Ledreborg Allé 2;4320;Lejre,"55,606243","11,94974",55.606243,11.94974
+370,Lehnskov,Lehnskov,Syddanmark; Fyn og øer,Svendborg,Lehnskov Strand 39;5700;Svendborg,"55,030529","10,504219",55.030529,10.504219
+371,Lekkende,Lekkende,Sjælland,Vordingborg,Lekkendevej 25;4735;Mern,"55,064846","12,012749",55.064846,12.012749
+372,Lengsholm,Lengsholm,Nordjylland,Hjørring,Stenhøjvej 137;9870;Sindal,"57,394802","10,313066",57.394802,10.313066
+373,Lerbæk (Sydjylland/Vejle),Lerbæk Gods,Syddanmark; Syd- og Sønderjylland,Vejle,"Jellingvej 341;7100,Vejle","55,744629","9,491711",55.744629,9.491711
+374,Lerbæk (Nordjylland),Lerbæk Hovedgård,Nordjylland,Frederikshavn,Skagensvej 195A;9900;Frederikshavn,"57,469151","10,500194",57.469151,10.500194
+375,Lerchenborg,Lerchenborg Gods,Sjælland,Kalundborg,Lerchenborg 3;4400;Kalundborg,"55,653706","11,079472",55.653706,11.079472
+376,Lerchenfeld,Lerchenfeld Gods,Sjælland,Kalundborg,Lerchenfeldvej 102;4400;Kalundborg,"55,698074","11,100044",55.698074,11.100044
+377,Lergrav,Lergrav Hovedgaard,Midtjylland,Herning,Lergravvej 26;7490;Aulum,"56,283318","8,799487",56.283318,8.799487
+378,Lerkenfeld,Lerkenfeldt,Nordjylland,Vesthimmerlands,Svingelbjergvej 106;9640;Farsø,"56,735237","9,382487",56.735237,9.382487
+379,Liliendal,Lilliendal Gods,Sjælland,Vordingborg,Lilliendal 1;4735;Mern,"55,029522","12,057133",55.029522,12.057133
+380,Lindbjerggaard,Lindbjerggård,Syddanmark; Syd- og Sønderjylland,Varde,Lindbjergvej 38;6870;Ølgod,"55,778522","8,660113",55.778522,8.660113
+381,Lindenborg,Lindenborg Slot,Nordjylland,Rebild,Aalborgvej 63;9260;Gistrup,"56,907719","10,034234",56.907719,10.034234
+382,Lindersvold,Heldagsskolen Lindersvold,Sjælland,Faxe,Lindersvoldvej 5;4640;Faxe,"55,184113","12,079207",55.184113,12.079207
+383,Linderumsgaard,Linderumgård,Nordjylland,Hjørring,Sønderskovvej 450;9870;Sindal,"57,430916","10,174832",57.430916,10.174832
+384,Lindholm,Lindholm,Sjælland,Lejre,Abbetvedvej 2;4000;Roskilde,"55,637829","11,93631",55.637829,11.93631
+385,Lindtorp,Lindtorp,Midtjylland,Struer,Lindtorpvej 6;7600;Struer,"56,402096","8,461166",56.402096,8.461166
+386,Lindved,Lindvedgaard,Syddanmark; Fyn og øer,Odense,Lindvedvej 75;5260;Odense S,"55,342525","10,422756",55.342525,10.422756
+387,Liselund,Liselund Gods,Sjælland; Lolland/Falster/Møn,Vordingborg,Liselundvej 55;4791;Borre,"54,999481","12,520931",54.999481,12.520931
+388,Lundbygaard,Lundbygaard Gods,Sjælland,Vordingborg,Lundbygårdsvej 100;4750;Lundby,"55,125977","11,895616",55.125977,11.895616
+389,Lundbæk,Nordjyllands Landbrugsskole - Lundbæk,Nordjylland,Aalborg,Halkærvej 3;9240;Nibe,"56,961304","9,608174",56.961304,9.608174
+390,Lundegaard,Herregården Lundegaard,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Lundegaardsvej 44-46;5672;Broby,"55,274754","10,241693",55.274754,10.241693
+391,Lundenæs,Lundenæs Hovedgård,Midtjylland,Ringkøbing-Skjern,Ånumvej 158;6900;Skjern,"55,939426","8,554459",55.939426,8.554459
+392,Lunderup,Lunderup,Syddanmark; Syd- og Sønderjylland,Varde,Lundvej 176;6800;Varde,"55,639812","8,526685",55.639812,8.526685
+393,Lundgaard (Nordjylland),Lundgård,Nordjylland,Vesthimmerlands,Bjørnsholmvej 69;9670;Løgstør,"56,862305","9,24875",56.862305,9.24875
+394,Lundgaard (Midtjylland),Lundgaard,Midtjylland,Viborg,Lundgårdsvej 12;7850;Stoholm,"56,479946","9,174855",56.479946,9.174855
+395,Lundsgaard,Lundsgaard Gods,Syddanmark; Fyn og øer,Kerteminde,Lundsgårdsvej 15;5300;Kerteminde,"55,43964","10,674623",55.43964,10.674623
+396,Lungholm,Lungholm Gods,Sjælland; Lolland/Falster/Møn,Lolland,Rødbyvej 24;4970;Rødby,"54,671852","11,459813",54.671852,11.459813
+397,Lykkesholm (Fyn),Lykkesholm Slot,Syddanmark; Fyn og øer,Nyborg,Lykkesholmsvej 20;5853;Ørbæk,"55,239334","10,618205",55.239334,10.618205
+398,Lykkesholm (Langeland),Lykkesholm,Syddanmark; Fyn og øer,Langeland,Ourevej 8;5932;Humble,"54,806152","10,720753",54.806152,10.720753
+399,Lykkesholm (Djursland),Lykkesholm,Midtjylland,Norddjurs,Ballevej 30;8570;Trustrup,"56,330418","10,801326",56.330418,10.801326
+400,Lynderupgaard,Lynderupgaard Gods,Midtjylland,Viborg,Østervej 1;8832;Skals,"56,564808","9,325173",56.564808,9.325173
+401,Lyngballegaard,Lyngballegård,Midtjylland,Favrskov,Lyngballevej 35;8471;Sabro,"56,217438","9,932654",56.217438,9.932654
+402,Lyngbygaard (Sjælland),Lyngbygård,Sjælland,Slagelse,Korsør Landevej 159;4242;Boeslunde,"55,300014","11,313578",55.300014,11.313578
+403,Lyngbygaard (Østjylland),Lyngbygård Gods,Midtjylland,Aarhus,Lyngbygårdsvej 25;8220;Brabrand,"56,169884","10,028332",56.169884,10.028332
+404,Lyngholm,Lyngholm,Nordjylland,Thisted,Lyngholmvej 1;7755;Bedsted Thy,"56,843201","8,374423",56.843201,8.374423
+405,Lyngsbækgaard,Lyngsbækgaard Hovedgaard,Midtjylland,Syddjurs,Lyngsbækgårdvej 8;8400;Ebeltoft,"56,241188","10,609362",56.241188,10.609362
+406,Lystrup,Lystrup,Sjælland,Faxe,Lystrupvej 9;4640;Faxe,"55,26189","12,063772",55.26189,12.063772
+407,Løgismose,Løgismose,Syddanmark; Fyn og øer,Assens,Alleen 5;5683;Haarby,"55,186333","10,083521",55.186333,10.083521
+408,Løjstrup,Løjstrup Hovedgård,Midtjylland,Favrskov,Brogesvej 6;8870;Langå,"56,383934","9,909848",56.383934,9.909848
+409,Løjtved,Løjtved,Syddanmark; Fyn og øer,Svendborg,Assensvej 253;5771;Stenstrup,"55,13343","10,491213",55.13343,10.491213
+410,Lønborggaard,Lønborggaard,Midtjylland,Ringkøbing-Skjern,Lønborggårdvej 1;6880;Tarm,"55,903042","8,417563",55.903042,8.417563
+411,Løndal,Løndal,Midtjylland,Horsens,Løndal Allé 1;8740;Brædstrup,"56,051785","9,587305",56.051785,9.587305
+412,Løvegaard,Løvegaard,Sjælland,Kalundborg,Løvegårdsvej 2;4270;Høng,"55,474812","11,286701",55.474812,11.286701
+413,Løvenborg,Løvenborg Gods,Sjælland,Holbæk,Løvenborg Allé 30;4420;Regstrup,"55,682838","11,587792",55.682838,11.587792
+414,Løvenholm,Løvenholm Gods,Midtjylland,Norddjurs,Løvenholmvej 68;8963;Auning,"56,451649","10,443954",56.451649,10.443954
+415,Laage,Laage,Syddanmark; Syd- og Sønderjylland,Hedensted,Viborg Hovedvej 55;7100;Vejle,"55,812061","9,547723",55.812061,9.547723
+416,Majbølgaard,Majbølgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Skovbyvej 20;6470;Sydals,"54,906475","9,922785",54.906475,9.922785
+417,Margaard,Margård,Syddanmark; Fyn og øer,Nordfyns,Margårdsvej 10;5471;Søndersø,"55,467449","10,230918",55.467449,10.230918
+418,Maribo Ladegaard,Maribo Ladegaard,Sjælland; Lolland/Falster/Møn,Lolland,Erikstrupvej 5;4930;Maribo,"54,781235","11,467569",54.781235,11.467569
+419,Marienborg,Marienborg,Sjælland; Lolland/Falster/Møn,Vordingborg,Marienborg Allé 3;4780;Stege,"54,940784","12,207898",54.940784,12.207898
+420,Marienlund,Skibhuscentret - Marienlund Hovedgaard,Syddanmark; Fyn og øer,Odense,Skibhusvej 270;5000;Odense C,"55,421383","10,404228",55.421383,10.404228
+421,Marienlyst,Marienlyst,Sjælland,Vordingborg,Marienlyst 1;4760;Vordingborg,"55,001659","11,928729",55.001659,11.928729
+422,Marselisborg,Marselisborg Slot,Midtjylland,Aarhus,Kongevejen 100;8000;Aarhus C,"56,127857","10,202694",56.127857,10.202694
+423,Marsvinslund,Marsvinslund,Midtjylland,Silkeborg,Marsvinslundvej 10;8620;Kjellerup,"56,344097","9,38779",56.344097,9.38779
+424,Mattrup,Mattrup,Midtjylland,Horsens,Mattrupvej 3;8765;Klovborg,"55,924438","9,542118",55.924438,9.542118
+425,Mejlgaard,Meilgaard Gods,Midtjylland,Norddjurs,Meilgaardvej 15;8585;Glesborg,"56,503002","10,65862",56.503002,10.65862
+426,Merløsegaard,Merløsegaard,Sjælland,Holbæk,Stibjærgvej 34;4370;Store Merløse,"55,534405","11,701407",55.534405,11.701407
+427,Merringgaard,Merringgård,Midtjylland,Hedensted,Merringvej 137;8723;Løsning,"55,83477","9,684406",55.83477,9.684406
+428,Mindstrup,Mindstrup,Syddanmark; Syd- og Sønderjylland,Vejle,Mindstrup Skovvej 1;7173;Vonge,"55,831177","9,423612",55.831177,9.423612
+429,Minendal,Minedal,Syddanmark; Fyn og øer,Middelfart,Assensvej 15;5591;Gelsted,"55,383179","9,916694",55.383179,9.916694
+430,Moesgaard,Moesgård Museum,Midtjylland,Aarhus,Moesgård Allé 20;8270;Højbjerg,"56,087257","10,22695",56.087257,10.22695
+431,Mullerup,Mullerup Gods,Syddanmark; Fyn og øer,Svendborg,Mullerupvej 53;5892;Gudbjerg Sydfyn,"55,170067","10,632575",55.170067,10.632575
+432,Mylenberg,Myhlenberg Avlsgård,Nordjylland,Mariagerfjord,Hulemosevej 5;9510;Arden,"56,781487","9,8386",56.781487,9.8386
+433,Møgelkær,Uddannelsescentret Møgelkær,Midtjylland,Hedensted,Møgelkærvej 15;7130;Juelsminde,"55,793404","9,912192",55.793404,9.912192
+434,Mølgaard,Mølgaard,Nordjylland,Vesthimmerlands,Mølgårdsvej 82;9600;Aars,"56,794491","9,385428",56.794491,9.385428
+435,Møllegaard,Møllegård Hovedgård,Syddanmark; Fyn og øer,Langeland,Spodsbjergvej 176;5900;Rudkøbing,"54,91716","10,805886",54.91716,10.805886
+436,Møllerup,Møllerup Gods,Midtjylland,Syddjurs,Møllerupvej 24;8410;Rønde,"56,28429","10,554727",56.28429,10.554727
+437,Mølskovgaard,Mølskovgård,Nordjylland,Hjørring,Mølskovvej 279;9870;Sindal,"57,448338","10,188565",57.448338,10.188565
+438,Møltrup,Møltrup Optagelseshjem,Midtjylland,Herning,Møltrupvej 70;7480;Vildbjerg,"56,175976","8,760308",56.175976,8.760308
+439,Mørup,Mørup,Sjælland,Sorø,Mørupvej 1;4173;Fjenneslev,"55,454769","11,67223",55.454769,11.67223
+440,Nakkebølle,Nakkebølle Gods,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Østergyden 3A;5600;Faaborg,"55,081013","10,35244",55.081013,10.35244
+441,Nakskov Ladegaard,Nakskov Ladegaard,Sjælland; Lolland/Falster/Møn,Lolland,Ladegårdsvej 101;4900;Nakskov,"54,857407","11,09312",54.857407,11.09312
+442,Nandrup,Nandrup,Nordjylland,Morsø,Nordmorsvej 24;7900;Nykøbing M,"56,874889","8,770193",56.874889,8.770193
+443,Nebbegaard,Nebbegaard Gods,Syddanmark; Syd- og Sønderjylland,Vejle,Nebbegårdsvej 115;7080 Børkop,"55,619438","9,715474",55.619438,9.715474
+444,Nedergaard,Nedergaard,Syddanmark; Fyn og øer,Langeland,Nedergårdsvej 10;5953;Tranekær,"55,054539","10,908899",55.054539,10.908899
+445,Nibstrup,Nibstrup,Nordjylland,Brønderslev,Nibstrupvej 50;9700;Brønderslev,"57,261692","9,988693",57.261692,9.988693
+446,Nielsbygaard,Nielsbygaard,Syddanmark; Syd- og Sønderjylland,Vejen,Nielsbygårdvej 7;6683;Føvling,"55,429764","8,95452",55.429764,8.95452
+447,Nielstrup (Fyn),Nielstrup Hovedgård,Syddanmark; Fyn og øer,Svendborg,Nielstrupvej 25;5762;Vester Skerninge,"55,077976","10,522706",55.077976,10.522706
+448,Nielstrup (Lolland),Nielstrup,Sjælland; Lolland/Falster/Møn,Lolland,Nielstrupvej 21;4990;Sakskøbing,"54,808994","11,56861",54.808994,11.56861
+449,Niløsegaard,Niløsegården,Sjælland,Sorø,Dianalundvej 1;4293;Dianalund,"55,55806","11,499178",55.55806,11.499178
+450,Nislevgaard,Nislevgård Efterskole,Syddanmark; Fyn og øer,Nordfyns,Nislevvej 11;5450;Otterup,"55,509083","10,385329",55.509083,10.385329
+451,Nissumgaard,Nissumgaard,Midtjylland,Skanderborg,Nissumgårdsvej 10;8660;Skanderborg,"55,997517","9,984206",55.997517,9.984206
+452,Nivaagaard,Nivaagaard,Hovedstaden,Fredensborg,Gammel Strandvej 12;2990;Nivå,"55,927708","12,512344",55.927708,12.512344
+453,Nordfeld,Nordfeld Gods,Sjælland; Lollan/Falster/Møn,Vordingborg,Nordfeldvej 48A;4780;Stege,"55,020157","12,395142",55.020157,12.395142
+454,Nordruplund,Nordruplund,Sjælland,Slagelse,Nordrupvej 15;4190;Munke Bjergby,"55,490726","11,439513",55.490726,11.439513
+455,Nordskov,Nordskov Gods,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Nordskovvej 42;5750;Ringe,"55,255127","10,428563",55.255127,10.428563
+456,Ny Kirstineberg,Ny Kirstineberg,Sjælland; Lolland/Falster/Møn,Guldborgsund,Ny Kirstinebergvej 9;4800;Nykøbing F,"54,789978","11,852129",54.789978,11.852129
+457,Ny Lellingegaard,Ny Lellingegård,Sjælland,Køge,Markledet 22;4600;Køge,"55,461559","12,0795",55.461559,12.0795
+458,Ny Skivehus,Ny Skivehus,Midtjylland,Skive,Odgaardsvej 15A;7800;Skive,"56,569588","9,019168",56.569588,9.019168
+459,Ny Viffertsholm,Ny Wiffertsholm,Nordjylland,Rebild,Dyrehavevej 4;9560;Hadsund,"56,795963","10,10544",56.795963,10.10544
+460,Nybøl,Nybølgård,Syddanmark; Syd- og Sønderjylland,Haderslev,Brogårdvej 4;6510;Gram,"55,299072","8,984374",55.299072,8.984374
+461,Nybøllegaard,Nybøllegaard,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Assensvej 136;5750;Ringe,"55,206867","10,373141",55.206867,10.373141
+462,Nygaard,Brakker Nygaard,Syddanmark; Syd- og Sønderjylland,Vejle,Sletmadevej 18;6040;Egtved,"55,588196","9,387553",55.588196,9.387553
+463,Nysø,Nysø,Sjælland,Vordingborg,Nysøvej 3;4720;Præstø,"55,126156","12,031255",55.126156,12.031255
+464,Næsbyholm,Næsbyholm,Sjælland,Næstved,Næsbyholm Allé 11;4171;Glumsø,"55,36871","11,601746",55.36871,11.601746
+465,Nørager,Nørager Herregaard,Sjælland,Kalundborg,Nøragervej 23;4291;Ruds Vedby,"55,57674","11,354379",55.57674,11.354379
+466,Nøragergaard,Nøragergaard,Nordjylland,Rebild,Solhøjvej 7;9610;Nørager,"56,703289","9,631254",56.703289,9.631254
+467,Nørgaard (Bælum),Nørgaard,Nordjylland,Rebild,Skolevej 12;9574;Bælum,"56,834213","10,114385",56.834213,10.114385
+468,Nørgaard (Midtjylland),Nørgård Hovedgård,Midtjylland,Skive,Nørgårds Allé 2;7870;Roslev,"56,672779","9,08097",56.672779,9.08097
+469,Nørholm,Nørholm Gods,Syddanmark; Syd- og Sønderjylland,Varde,Stokkebrovej 1;6800;Varde,"55,685684","8,600161",55.685684,8.600161
+470,Nørlund,Nørlund Gods,Nordjylland,Rebild,Roldvej 144;9610;Nørager,"56,782143","9,723885",56.782143,9.723885
+471,Nørre Elkær,Nørre Elkær,Nordjylland,Hjørring,Elkærvej 13A;9881;Bindslev,"57,572639","10,21837",57.572639,10.21837
+472,Nørre Holmgaard,Nr. Holmgaard,Midtjylland,Lemvig,Holmgårdsvej 49;7660;Bækmarksbro,"56,423084","8,343193",56.423084,8.343193
+473,Nørre Karstofte,Nørre Karstoft,Midtjylland,Herning,Nr Karstoftvej 30;6933;Kibæk,"55,937489","8,944018",55.937489,8.944018
+474,Nørre-Ravnstrup,Nørre Ravnstrup,Nordjylland,Brønderslev,Bjørnbækvej 12;9320;Hjallerup,"57,182961","10,112492",57.182961,10.112492
+475,Nørre Vosborg,Herregården Nørre Vosborg,Midtjylland,Holstebro,Vembvej 35;7570;Vemb,"56,326527","8,33001",56.326527,8.33001
+476,Nørregaard,Nørregård,Sjælland; Lolland/Falster/Møn,Lolland,Almindevej 23;4920;Søllested,"54,769787","11,609754",54.769787,11.609754
+477,Odden,Odden,Nordjylland,Hjørring,Oddenvej 31;9800;Hjørring,"57,537834","10,094032",57.537834,10.094032
+478,Orebjerg,Orebjerg Gods,Sjælland,Frederikssund,Orebjerg Allé 5;3630;Jægerspris,"55,817078","11,96087",55.817078,11.96087
+479,Orebygaard,Oreby Slot,Sjælland; Lolland/Falster/Møn,Guldborgsund,Orebygaard 5;4990;Sakskøbing,"54,82946","11,596767",54.82946,11.596767
+480,Oregaard,Oregaard,Syddanmark; Fyn og øer,Nordfyns,Oregårdvej 23;5400;Bogense,"55,507561","10,025781",55.507561,10.025781
+481,Orelund,Orelund,Syddanmark; Fyn og øer,Assens,Orelundvej 30;5610;Assens,"55,340637","9,909216",55.340637,9.909216
+482,Oremandsgaard,Oremandsgaard hovedgård,Sjælland,Vordingborg,Oremandsgaard Allé 2;4720;Præstø,"55,07172","12,068016",55.07172,12.068016
+483,Ormholt,Ormholt,Nordjylland,Frederikshavn,Nejsumvej 12;9750;Østervrå,"57,323036","10,271329",57.323036,10.271329
+484,Ormstrup,Ormstrup Gods,Midtjylland,Viborg,Ormstrupvej 28;8850;Bjerringbro,"56,327576","9,645801",56.327576,9.645801
+485,Orupgaard,Orupgaard Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Egeparken 3;4800;Nykøbing F,"54,759937","11,952434",54.759937,11.952434
+486,Ottestrup (Sjælland),Ottestrup,Sjælland,Ringsted,Ottestrupvej 70;4100;Ringsted,"55,393215","11,909135",55.393215,11.909135
+487,Ottestrup (Nordjylland),Ottestrup,Nordjylland,Frederikshavn,Understedvej 153;9300;Sæby,"57,343445","10,420986",57.343445,10.420986
+488,Ovegaard,Ouegaard Hovedgaard,Nordjylland,Mariagerfjord,Ouegaardvej 1;9560;Hadsund,"56,690079","9,995505",56.690079,9.995505
+489,Overgaard (Mors),Overgaard,Nordjylland,Morsø,Brunhøjvej 14;7950;Erslev,"56,873425","8,714086",56.873425,8.714086
+490,Overgaard (Østjylland),Overgaard Gods,Midtjylland,Randers,Overgårdsvej 28;8970;Havndal,"56,684071","10,249447",56.684071,10.249447
+491,Overklit,Overklit,Nordjylland,Hjørring,Overklitvej 154;9800;Hjørring,"57,440735","9,857358",57.440735,9.857358
+492,Oxholm,Oxholm Gods,Nordjylland,Jammerbugt,Vestre Skovvej 1;9460;Brovst,"57,062248","9,573223",57.062248,9.573223
+493,Pagterold,Pagterold,Sjælland,Frederikssund,Pagteroldvej 5;4050;Skibby,"55,770996","11,97853",55.770996,11.97853
+494,Pallisbjerg,Pallisbjerg Herregård,Midtjylland,Holstebro,Pallisbjergvej 5;6990;Ulfborg,"56,277695","8,235672",56.277695,8.235672
+495,Palsgaard,Palsgaard Gods,Midtjylland,Hedensted,Palsgårdvej 10;7130;Juelsminde,"55,746685","10,02391",55.746685,10.02391
+496,Palstrup,Palstrup,Midtjylland,Viborg,Palstrupvej 25;8840;Rødkærsbro,"56,321587","9,517064",56.321587,9.517064
+497,Pandum,Pandum Hovedgaard,Nordjylland,Aalborg,Hovholmvej 2;9240;Nibe,"56,930569","9,663299",56.930569,9.663299
+498,Pederstrup,Reventlow-Museet Pederstrup,Sjælland; Lolland/Falster/Møn,Lolland,Pederstrupvej 124;4913;Horslunde,"54,895939","11,265475",54.895939,11.265475
+499,Petersgaard,Petersgaard Gods,Sjælland,Vordingborg,Petersgaard Allé 3;4772;Langebæk,"55,003036","12,102994",55.003036,12.102994
+500,Petersholm (Sydjylland/Vejle),Pedersholm,Syddanmark; Syd- og Sønderjylland,Vejle,Pedersholms Allé 42;7100;Vejle,"55,696098","9,515474",55.696098,9.515474
+501,Peterslund,Peterslund,Nordjylland,Morsø,Peterslundsvej 4;7990;Øster Assels,"56,685032","8,681647",56.685032,8.681647
+502,Priorskov,Priorskov Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Priorskov 11;4800;Nykøbing F,"54,733795","11,842166",54.733795,11.842166
+503,Rammegaard,Rammegård,Midtjylland,Lemvig,Rammegårdvej 26;7620;Lemvig,"56,482971","8,193939",56.482971,8.193939
+504,Randrup (Midtjylland),Randrup Gods,Midtjylland,Viborg,Vinkelvej 141;8800;Viborg,"56,417221","9,468988",56.417221,9.468988
+505,Randrup (Nordjylland),Randrup Hovedgård,Nordjylland,Rebild,Randrupvej 9;9293;Kongerslev,"56,867836","10,112245",56.867836,10.112245
+506,Rantzausgave,Rantzausgave,Midtjylland,Aarhus,Rantzausgavevej 9;8355;Solbjerg,"56,011189","10,083356",56.011189,10.083356
+507,Rask,Rask Hovedgård,Midtjylland,Hedensted,Fruens Vej 15;8763;Rask Mølle,"55,881855","9,597109",55.881855,9.597109
+508,Rathlousdal,Rathlousdal,Midtjylland,Odder,Kongshusvej 68;8300;Odder,"55,964066","10,125028",55.964066,10.125028
+509,Ravnholt,Ravnholt Gods,Syddanmark; Fyn og øer,Nyborg,Ravnholtvej 57;5853 Ørbæk,"55,26104","10,581767",55.26104,10.581767
+510,Ravnstrup,Ravnstrup,Sjælland,Næstved,Ravnstrupvej 58;4160;Herlufmagle,"55,324268","11,726861",55.324268,11.726861
+511,Refsnæs,Refsnæs,Nordjylland,Aalborg,Refsnæsvej 3;9293;Kongerslev,"56,909554","10,091255",56.909554,10.091255
+512,Refstrup,Refstrup,Syddanmark; Syd- og Sønderjylland,Vejle,Refstrupvej 18;7321;Gadbjerg,"55,781528","9,315243",55.781528,9.315243
+513,Restrup,Lille Restrup Hovedgaard,Nordjylland,Vesthimmerlands,Ll Restrupvej 71;9620;Aalestrup,"56,69009","9,51256",56.69009,9.51256
+514,Revsø,Revsøgård,Syddanmark; Syd- og Sønderjylland,Haderslev,Revsøgårdvej 8;6560;Sommersted,"55,33551","9,304788",55.33551,9.304788
+515,Rindumgaard,Rindumgaard,Midtjylland,Ringkøbing-Skjern,Holstebrovej 31;6950;Ringkøbing,"56,100868","8,253385",56.100868,8.253385
+516,Risbyholm,Risbyholm,Sjælland,Roskilde,Risbyholmvej 5A;4622;Havdrup,"55,546783","12,097012",55.546783,12.097012
+517,Risinge,Risinge,Syddanmark; Fyn og øer,Nyborg,Risingevej 7;5540;Ullerslev,"55,410931","10,713169",55.410931,10.713169
+518,Ristrup,Ristrup Hovedgaard,Midtjylland,Aarhus,Ristrupvej 39;8471;Sabro,"56,222973","10,053168",56.222973,10.053168
+519,Rodsteenseje,Rodsteenseje Hovedgård,Midtjylland,Odder,Rodstensejevej 10;8300;Odder,"55,960182","10,162746",55.960182,10.162746
+520,Rohden,Rohden Gods,Midtjylland,Hedensted,Rohdenvej 4;7140;Stouby,"55,703163","9,737132",55.703163,9.737132
+521,Rolsegaard,Rolsøgård,Midtjylland,Syddjurs,Rolsøgårdvej 26;8420;Knebel,"56,231007","10,457513",56.231007,10.457513
+522,Rosendal,Rosendal Gods,Sjælland,Faxe,Rosendalvej 3;4640;Faxe,"55,224983","12,110963",55.224983,12.110963
+523,Rosenfeldt,Rosenfeldt Gods,Sjælland,Vordingborg,Rosenfeldt 1;4760;Vordingborg,"55,017056","11,876615",55.017056,11.876615
+524,Rosengaard,Rosengaard,Sjælland,Ringsted,Kirkevej 26;4100;Ringsted,"55,461384","11,878473",55.461384,11.878473
+525,Rosenholm,Rosenholm Slot,Midtjylland,Syddjurs,Rosenholmvej 119;8543;Hornslet,"56,333256","10,330941",56.333256,10.330941
+526,Rosenlund,Rosenlund,Sjælland; Lolland/Falster/Møn,Guldborgsund,Rosenlundvej 1;4990;Sakskøbing,"54,745667","11,722702",54.745667,11.722702
+527,Rosenvold,Rosenvold Gods,Midtjylland,Hedensted,Rosenvoldvej 21;7140;Stouby,"55,672001","9,823415",55.672001,9.823415
+528,Roskilde Kloster,Roskilde Kloster,Sjælland,Roskilde,Sankt Peders Stræde 8;4000;Roskilde,"55,641827","12,086466",55.641827,12.086466
+529,Rudbjerggaard,Rudbjerggaard,Sjælland; Lolland/Falster/Møn,Lolland,Hovvasen 9;4983;Dannemare,"54,76717","11,126284",54.76717,11.126284
+530,Rugaard (Djursland),Rugaard Gods,Midtjylland,Syddjurs,Rugårdsvej 14;8400;Ebeltoft,"56,284687","10,805535",56.284687,10.805535
+531,Rugaard (Fyn),Rugård,Syddanmark; Fyn og øer,Nordfyns,Paddesøvej 7;5474;Veflinge,"55,444649","10,122772",55.444649,10.122772
+532,Rugtved,Store Rugtved,Nordjylland,Frederikshavn,Kringelhedevej 45;9300;Sæby,"57,204933","10,444729",57.204933,10.444729
+533,Rumohrsgaard,Rumohrsgård,Syddanmark; Syd- og Sønderjylland,Sønderborg,Hundslevvej 20;6440;Augustenborg,"54,977047","9,907378",54.977047,9.907378
+534,Rybjerg,Rydbjerg,Midtjylland,Ringkøbing-Skjern,Rydbjergvej 24;6950;Ringkøbing,"56,052197","8,331731",56.052197,8.331731
+535,Rydhave,Rydhave Slots Efterskole,Midtjylland,Holstebro,Holstebrovej 38;7830;Vinderup,"56,45314","8,761291",56.45314,8.761291
+536,Rye Nørskov,Rye Nørskov Gods,Midtjylland,Skanderborg,Tinghusvej 4;8680;Ry,"56,088089","9,704513",56.088089,9.704513
+537,Rygaard,Rygård Hovedgård,Syddanmark; Fyn og øer,Nyborg,Rygårdsvej 28;5874;Hesselager,"55,192371","10,699566",55.192371,10.699566
+538,Rynkebygaard,Rynkebygård,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Rynkebyvej 32;5750;Ringe,"55,255028","10,452786",55.255028,10.452786
+539,Ryomgaard,Gammel Ryomgård,Midtjylland,Syddjurs,Thorsagervej 3A;8550;Ryomgård,"56,377602","10,504431",56.377602,10.504431
+540,Rysensteen,Herregaarden Rysensteen,Midtjylland,Lemvig,Bøvlingvej 40;7650;Bøvlingbjerg,"56,453194","8,178332",56.453194,8.178332
+541,Rævkærgaard,Rævkærgård,Nordjylland,Jammerbugt,Brogårdsvej 144A;9440;Aabybro,"57,170197","9,710475",57.170197,9.710475
+542,Rødkilde,Rødkilde Gods,Syddanmark; Fyn og øer,Svendborg,Rødkildevej 15;5762;Vester Skerninge,"55,071823","10,395658",55.071823,10.395658
+543,Rønhave,Rønhave,Syddanmark; Syd- og Sønderjylland,Sønderborg,Hestehave 20;6400;Sønderborg,"54,952431","9,770288",54.952431,9.770288
+544,Rønnebæksholm,Rønnebæksholm,Sjælland,Næstved,Rønnebæksholm 1;4700;Næstved,"55,220173","11,794384",55.220173,11.794384
+545,Rønningesøgaard,Rønningesøgård,Syddanmark; Fyn og øer,Kerteminde,Søgårdsvej 10;5540;Ullerslev,"55,337894","10,630774",55.337894,10.630774
+546,Rønnovsholm,Rønnovsholm,Nordjylland,Hjørring,Guldagervej 404;9800;Hjørring,"57,397717","10,020423",57.397717,10.020423
+547,Rørbæk (Fyn),Rørbæk,Syddanmark; Fyn og øer,Nyborg,Lundevej 1;5540;Ullerslev,"55,404667","10,670253",55.404667,10.670253
+548,Rørbæk (Sydjylland/Vejle),Rørbæk Hovedgaard,Syddanmark; Syd- og Sønderjylland,Vejle,Rørbækvej 1;7323;Give,"55,930595","9,350543",55.930595,9.350543
+549,Rørbæk Hovgaard,Rørbæk Hovgaard,Nordjylland,Rebild,Hougaardsvej 19;9500;Hobro,"56,701645","9,720821",56.701645,9.720821
+550,Raastrup,Råstrup,Nordjylland,Thisted,Råstrupvej 3;7700;Thisted,"56,941132","8,526777",56.941132,8.526777
+551,Saltø,Saltø,Sjælland,Næstved,Saltøvej 63;4700;Næstved,"55,227173","11,632089",55.227173,11.632089
+552,Sandagergaard,Sandagergaard,Syddanmark; Fyn og øer,Nordfyns,Kirkemosevej 2;5400;Bogense,"55,555107","10,168873",55.555107,10.168873
+553,Sandbjerg,Sandbjerg Gods,Syddanmark; Syd- og Sønderjylland,Sønderborg,Sandbjergvej 102;6400;Sønderborg,"54,949554","9,749528",54.949554,9.749528
+554,Sandbygaard,Sandbygaard Gods,Sjælland,Næstved,Sandbyvej 47;4171;Glumsø,"55,377831","11,738805",55.377831,11.738805
+555,Sanderumgaard,Sanderumgaard Gods,Syddanmark; Fyn og øer,Odense,Sanderumgårdvej 150;5220;Odense SØ,"55,352978","10,532703",55.352978,10.532703
+556,Sandholt,Sandholt Gods,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Rishøjvej 2;5672;Broby,"55,192818","10,276724",55.192818,10.276724
+557,Schackenborg,Schackenborg,Syddanmark; Syd- og Sønderjylland,Tønder,Schackenborg 1;6270;Tønder,"54,942806","8,809077",54.942806,8.809077
+558,Scheelenborg,Schelenborg Gods,Syddanmark; Fyn og øer,Kerteminde,Fynshovedvej 417;5390;Martofte,"55,535217","10,647224",55.535217,10.647224
+559,Sebberkloster,Sebber Kloster,Nordjylland,Aalborg,Store Ajstrupvej 25;9240;Nibe,"56,962337","9,536528",56.962337,9.536528
+560,Sejlstrupgaard,Sejlstrup Hovedgaard,Nordjylland,Hjørring,Velbyvej 302;9800;Hjørring,"57,415684","9,890918",57.415684,9.890918
+561,Sejlgaard,Sejlgaard,Midtjylland,Silkeborg,Skærskovhedevej 3;8600;Silkeborg,"56,141636","9,455668",56.141636,9.455668
+562,Selchausdal,Selchausdal Gods,Sjælland,Kalundborg,Selchausdalvej 4;4291;Ruds Vedby,"55,584324","11,326911",55.584324,11.326911
+563,Selleberg,Selleberg,Syddanmark; Fyn og øer,Kerteminde,Kertemindevejen 23;5290;Marslev,"55,39249","10,54495",55.39249,10.54495
+564,Selsø,Selsø Slot,Sjælland,Frederikssund,Selsøvej 30A;4050;Skibby,"55,741207","12,01047",55.741207,12.01047
+565,Serridslevgaard,Serridslevgaard,Midtjylland,Horsens,Serridslevgårdvej 25;8700;Horsens,"55,901794","9,923771",55.901794,9.923771
+566,Silkeborg,Museum Silkeborg,Midtjylland,Silkeborg,Hovedgårdsvej 7;8600;Silkeborg,"56,169136","9,553116",56.169136,9.553116
+567,Sindbjerggaard,Sindbjerggaard,Nordjylland,Morsø,Canadavej 6;7970;Redsted M,"56,738895","8,670636",56.738895,8.670636
+568,Sindinggaard,Sindinggård,Midtjylland,Herning,Sindinggårdvej 21;7400;Herning,"56,208549","8,862652",56.208549,8.862652
+569,Skaføgaard,Skaføgård Gods,Midtjylland,Syddjurs,Sandmarkvej 30;8544;Mørke,"56,368946","10,409423",56.368946,10.409423
+570,Skerrildgaard,Skerrildgård,Midtjylland,Hedensted,Lhombrevej 4;8783;Hornsyld,"55,741829","9,875834",55.741829,9.875834
+571,Skibstedgaard,Skibstedgård,Nordjylland,Thisted,Kammersgårdsvej 30;7760;Hurup Thy,"56,692101","8,43187",56.692101,8.43187
+572,Skjeltofte,Skelstofte,Sjælland; Lolland/Falster/Møn,Lolland,Pederstrupvej 123;4953;Vesterborg,"54,876469","11,272667",54.876469,11.272667
+573,Skjern,Skjern Hovedgård,Midtjylland,Viborg,Gl. Randersvej 14;8850;Bjerringbro,"56,451984","9,751524",56.451984,9.751524
+574,Skjoldemose,Skjoldemose Gods,Syddanmark; Fyn og øer,Svendborg,Rødmevej 45;5771;Stenstrup,"55,102482","10,476086",55.102482,10.476086
+575,Skjoldenæsholm,Skjoldenæsholm Hotel & Konferencecenter,Sjælland,Ringsted,Skjoldenæsvej 106;4174;Jystrup Midtsj,"55,535332","11,85294",55.535332,11.85294
+576,Skjortholt,Søndre Skjortholt,Nordjylland,Frederikshavn,Rydalvej 55;9900;Frederikshavn,"57,420097","10,384756",57.420097,10.384756
+577,Skovbølgaard,Skovbølgård,Syddanmark; Syd- og Sønderjylland,Aabenraa,Skovbølgaardvej 10;6200;Aabenraa,"55,005405","9,553348",55.005405,9.553348
+578,Skovgaard,Hygum Skovgård,Syddanmark; Syd- og Sønderjylland,Vejle,Tørringvej 14;7300;Jelling,"55,786163","9,440807",55.786163,9.440807
+579,Skovgaarde,Skovgaarde,Syddanmark; Fyn og øer,Assens,Billesvej 9;5610;Assens,"55,255547","10,029998",55.255547,10.029998
+580,Skovsbo (Fyn),Skovsbo Gods,Syddanmark; Fyn og øer,Kerteminde,Skovsbovej 155;5540;Ullerslev,"55,393387","10,631881",55.393387,10.631881
+581,Skovsbo (Langeland),Skovsbo,Syddanmark; Fyn og øer,Langeland,Skovsbovej 14;5900;Rudkøbing,"54,895386","10,772314",54.895386,10.772314
+582,Skovsgaard (Nordjylland),Skovsgård Gods,Nordjylland,Mariagerfjord,Skovsgårdvej 9;9500;Hobro,"56,635761","9,853331",56.635761,9.853331
+583,Skovsgaard (Langeland),Skovsgaard Gods,Syddanmark; Fyn og øer,Langeland,Kågårdsvej 12;5900;Rudkøbing,"54,844917","10,751811",54.844917,10.751811
+584,Skrumsager,Skrumsager Hovedgård,Midtjylland,Ringkøbing-Skjern,Skrumsagervej 1;6893;Hemmet,"55,80291","8,30576",55.80291,8.30576
+585,Skullerupholm,Skullerupholm,Sjælland,Lejre,Skullerupvej 36;4330;Hvalsø,"55,6175","11,905061",55.6175,11.905061
+586,Skærsø,Skærsø Hovedgård,Midtjylland,Syddjurs,Skærsø Skovvej 1;8400;Ebeltoft,"56,239491","10,709239",56.239491,10.709239
+587,Skærvad,Skærvad Hovedgaard,Midtjylland,Norddjurs,Skærvad Allé 10;8500;Grenaa,"56,433529","10,751177",56.433529,10.751177
+588,Skørringe,Skjørringe Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Skørringevej 1;4850;Stubbekøbing,"54,85059","11,963635",54.85059,11.963635
+589,Skaaphus,Skaaphusgaard,Midtjylland,Herning,Skåphusvej 60;7451;Sunds,"56,223736","9,085652",56.223736,9.085652
+590,Skaarupgaard (Østjylland),Skårupgård,Midtjylland,Aarhus,Skårupgårdvej 101;8520;Lystrup,"56,250973","10,215194",56.250973,10.215194
+591,Skaarupgaard (Nordjylland),Skaarupgaard,Nordjylland,Hjørring,Skaarupgaard 59;9870;Sindal,"57,462673","10,343348",57.462673,10.343348
+592,Slette,Slettegaard,Nordjylland,Jammerbugt,Hjortdalvej 121;9690;Fjerritslev,"57,137455","9,347461",57.137455,9.347461
+593,Slumstrup,Slumstrup,Midtjylland,Ringkøbing-Skjern,Slumstrupvej 15;6900;Skjern,"56,002876","8,560188",56.002876,8.560188
+594,Snedinge,Snedinge,Sjælland,Slagelse,Ørslevvej 230;4230;Skælskør,"55,224667","11,426781",55.224667,11.426781
+595,Snertingegaard,Snertingegård,Sjælland,Vordingborg,Fæbyvej 121;4760;Vordingborg,"55,064178","11,919494",55.064178,11.919494
+596,Sneumgaard,Sneumgård,Syddanmark; Syd- og Sønderjylland,Esbjerg,Sneumgårdsvej 3;6731;Tjæreborg,"55,461998","8,634437",55.461998,8.634437
+597,Sofiedal,Sofiedal,Sjælland,Faxe,Terslev Skolevej 4;4690;Haslev,"55,345692","11,989726",55.345692,11.989726
+599,Solvig,Solvig,Syddanmark; Syd- og Sønderjylland,Tønder,Aabenraavej 28;6270;Tønder,"54,969025","8,963071",54.969025,8.963071
+600,Sonnerupgaard,Sonnerupgaard Gods,Sjælland,Lejre,Tølløsevej 55;4330;Hvalsø,"55,601322","11,836057",55.601322,11.836057
+601,Sophiendal (Østjylland),Sophiendal Gods,Midtjylland,Skanderborg,Låsbyvej 82;8660;Skanderborg,"56,111919","9,878888",56.111919,9.878888
+602,Sorø Lille Ladegaard,Sorø Akademis Skole,Sjælland,Sorø,Akademigrunden 8;4180;Sorø,"55,42971","11,556567",55.42971,11.556567
+603,Sorø Store Ladegaard,Sorø St. Ladegård,Sjælland,Sorø,St. Ladegårdsvej 5;4180;Sorø,"55,43721","11,607498",55.43721,11.607498
+604,Sostrup,Sostrup Slot & Kloster,Midtjylland,Norddjurs,Maria Hjerte Engen 2;8500;Grenaa,"56,497818","10,824377",56.497818,10.824377
+605,Spanager,Spanager,Sjælland,Næstved,Spanagervej 14;4623;Ll. Skensved,"55,481564","12,057341",55.481564,12.057341
+606,Spangerhede,Spangerhede,Nordjylland,Hjørring,Spangerhedevej 110;9800;Hjørring,"57,430904","10,064137",57.430904,10.064137
+607,Sparresholm,Sparresholm Gods,Sjælland,Næstved,Sparresholmvej 4B;4684;Holmegaard,"55,236889","11,950816",55.236889,11.950816
+608,Sparretorn,Sparretorn,Syddanmark; Fyn og øer,Middelfart,Fønsskovvej 27;5580;Nørre Aaby,"55,432285","9,795133",55.432285,9.795133
+609,Spøttrup,Spøttrup Borg - Museum Salling,Midtjylland,Skive,Borgen 6E;7860;Spøttrup,"56,639706","8,782304",56.639706,8.782304
+610,Steensgaard (Langeland),Steensgaard,Syddanmark; Fyn og øer,Langeland,Steensgårdsvej 7;5953;Tranekær,"55,109898","10,917044",55.109898,10.917044
+611,Stenalt,Stenalt,Midtjylland,Norddjurs,Stenaltvej 8;8950;Ørsted,"56,508591","10,291046",56.508591,10.291046
+612,Stensballegaard,Stensballegård Gods,Midtjylland,Horsens,Bygaden 70;8700;Horsens,"55,872002","9,925074",55.872002,9.925074
+613,Stensbæk,Stensbæk Hovedgaard,Nordjylland,Hjørring,Stensbæk 1;9881;Bindslev,"57,552624","10,218699",57.552624,10.218699
+614,Steensgaard (Fyn),Steensgaard,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Steensgaard 4;5642;Millinge,"55,140724","10,183439",55.140724,10.183439
+615,Stensmark,Stensmark,Midtjylland,Norddjurs,Stensmarkvej 22;8500;Grenaa,"56,444756","10,94584",56.444756,10.94584
+616,Stenumgaard,Stenumgaard,Midtjylland,Holstebro,Knudsigvej 2;7570;Vemb,"56,341072","8,378844",56.341072,8.378844
+617,Store Frederikslund,Store Frederikslund Gods,Sjælland,Slagelse,Store Frederikslund 8;4200;Slagelse,"55,442402","11,463098",55.442402,11.463098
+618,Store Grundet,Store Grundet,Syddanmark; Syd- og Sønderjylland,Vejle,Store Grundet Allé 71A;7100;Vejle,"55,733707","9,547231",55.733707,9.547231
+619,Store Restrup,Store Restrup Herregaard,Nordjylland,Aalborg,Restrup Kærvej 10;9240;Nibe,"57,005096","9,774671",57.005096,9.774671
+620,Stougaard,Stougård Hovedgård,Midtjylland,Hedensted,Ildvedvej 1;7160;Tørring,"55,846348","9,474948",55.846348,9.474948
+621,Strandberggaard,Strandbjerggaard,Midtjylland,Struer,Strandbjerggårdvej 8;7600 Struer,"56,515423","8,593897",56.515423,8.593897
+622,Strandegaard,Strandegård,Sjælland,Faxe,St. Elmuevej 2;4640;Faxe,"55,186928","12,112315",55.186928,12.112315
+623,Strandet,Strandet Hovedgaard,Midtjylland,Skive,Strandetvej 47-49;7840;Højslev,"56,573673","9,237173",56.573673,9.237173
+624,Stubbergaard,Stubbergård,Midtjylland,Holstebro,Stubbergårdvej 7;7830;Vinderup,"56,45697","8,883918",56.45697,8.883918
+625,Støvringgaard,Støvringgaard Kloster,Midtjylland,Randers,Støvringgårdvej 73A;8930;Randers,"56,502239","10,202936",56.502239,10.202936
+626,Staarupgaard,Staarup Hovedgaard,Midtjylland,Skive,Stårupgårdvej 10;7840;Højslev,"56,586353","9,11121",56.586353,9.11121
+627,Svanholm,Svanholm Storkollektiv,Sjælland,Frederikssund,Svanholm Gods 4A;4050;Skibby,"55,783642","11,939444",55.783642,11.939444
+628,Svenstrup,Svenstrup Gods,Sjælland,Køge,Borupvej 100;4140;Borup,"55,491917","11,955216",55.491917,11.955216
+629,Sæbygaard (Nordjylland),Sæbygaard,Nordjylland,Frederikshavn,Sæbygårdvej 49;9300;Sæby,"57,334129","10,478787",57.334129,10.478787
+630,Sæbygaard (Sjælland),Sæbygård,Sjælland,Kalundborg,Sæbygårdsalle 1;4270;Høng,"55,554295","11,314675",55.554295,11.314675
+631,Sæbyholm,Sæbyholm,Sjælland; Lolland/Falster/Møn,Lolland,Maribovej 238;4900;Nakskov,"54,834248","11,191645",54.834248,11.191645
+632,Sædingegaard,Sædingegaard Gods,Sjælland; Lolland/Falster/Møn,Lolland,Sædingegårdsvej 15;4970;Rødby,"54,714745","11,406107",54.714745,11.406107
+633,Sø,Sø Hovedgård,Nordjylland,Morsø,Hanstholmvej 2;7900;Nykøbing M,"56,903675","8,847514",56.903675,8.847514
+634,Søbo,Søbo Gods,Syddanmark; Fyn og øer,Assens,Søbovej 12;5683;Haarby,"55,206013","10,202235",55.206013,10.202235
+635,Søbygaard (Østjylland),Søbygård,Midtjylland,Favrskov,Søbygårdsvej 102;8450;Hammel,"56,254234","9,795771",56.254234,9.795771
+636,Søbygaard (Ærø),Søbygaard,Syddanmark; Fyn og øer,Ærø,Søbygårdsvej 2;5985;Søby Ærø,"54,919186","10,282271",54.919186,10.282271
+637,Søbysøgaard,Søby Søgård,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Søvej 27;5792;Årslev,"55,290966","10,368179",55.290966,10.368179
+638,Sødal,Sødal Hovedgård,Midtjylland,Viborg,Vråvej 12;8830;Tjele,"56,514198","9,506901",56.514198,9.506901
+639,Sødringholm,Sødringholm Hovedgård,Midtjylland,Randers,Sødringholmvej 10;8970;Havndal,"56,628971","10,320772",56.628971,10.320772
+640,Søgaard (Sønderjylland),Søgaard,Sydddanmark; Syd og Sønderjylland,Aabenraa,Søgård Hovvej 1;6200;Aabenraa,"54,941422","9,450815",54.941422,9.450815
+641,Søgaard (Nordjylland),Søgård,Nordjylland,Thisted,Søgård Mark 6;7700;Thisted,"57,024845","8,637901",57.024845,8.637901
+642,Søholm (Sjælland),Søholm,Sjælland,Stevns,Søholmvej 9;4672;Klippinge,"55,370174","12,370815",55.370174,12.370815
+643,Søholm (Fyn),Søholm,Syddanmark; Fyn og øer,Assens,Odensevej 37;5620;Glamsbjerg,"55,279072","10,128462",55.279072,10.128462
+644,Søholt,Søholt,Sjælland; Lolland/Falster/Møn,Lolland,Søholtvej 41;4930;Maribo,"54,740845","11,538829",54.740845,11.538829
+645,Søllestedgaard,Søllestedgaard Gods,Sjælland; Lolland/Falster/Møn,Lolland,Søllestedgårdvej 4;4920;Søllested,"54,821175","11,284693",54.821175,11.284693
+646,Sønder Elkær,Sønder-Elkær,Nordjylland,Aalborg,Elkærvej 105;9381;Sulsted,"57,164642","9,937393",57.164642,9.937393
+647,Sønder Holmgaard,Sdr. Holmgård,Midtjylland,Ringkøbing-Skjern,Holmgårde 8;6940;Lem St,"56,053661","8,372489",56.053661,8.372489
+648,Sønderbygaard,Sønderbygaard,Midtjylland,Holstebro,Østergårdvej 7;7830;Vinderup,"56,435158","8,73197",56.435158,8.73197
+649,Søndergaard,Søndergårde,Syddanmark; Fyn og øer,Assens,Søndergårdevej 9;5560;Aarup,"55,397503","10,031872",55.397503,10.031872
+650,Sønderris,Sønderrisgård,Syddanmark; Syd- og Sønderjylland,Esbjerg,Merkurvænget 57;6710;Esbjerg V,"55,515484","8,411233",55.515484,8.411233
+651,Sønderskov,Museet på Sønderskov,Syddanmark; Syd- og Sønderjylland,Vejen,Sønderskovgårdvej 2;6650;Brørup,"55,451927","9,037729",55.451927,9.037729
+652,Søndervang,Søndervang,Midtjylland,Ringkøbing-Skjern,Møllebyvej 8;6980;Tim,"56,188866","8,19508",56.188866,8.19508
+653,Sønder Vosborg,Sønder Vosborg,Midtjylland,Holstebro,Vembvej 12;6990;Ulfborg,"56,31319","8,341676",56.31319,8.341676
+654,Sørup,Sørup Herregaard,Sjælland,Ringsted,Sørupvej 26;4100;Ringsted,"55,385899","11,796409",55.385899,11.796409
+655,Søviggaard,Søviggård,Syddanmark ; Syd- og Sønderjylland,Varde,Søviggårdvej 51;6855;Varde,"55,671013","8,333128",55.671013,8.333128
+656,Tamdrup Bisgaard,Tamdrup Bisgård,Midtjylland,Horsens,Bisgårdsvej 2;8700;Horsens,"55,887436","9,736991",55.887436,9.736991
+657,Tammestrup,Tammestrup Hovedgård,Midtjylland,Skanderborg,Tåningvej 35;8660;Skanderborg,"55,98502","9,857648",55.98502,9.857648
+658,Tandrup,Tandrup,Nordjylland,Thisted,Tandrupvej 16;7755;Bedsted Thy,"56,843372","8,424888",56.843372,8.424888
+659,Tersløsegaard,Tersløsegaard,Sjælland,Sorø,Holbergsvej 101;4293;Dianalund,"55,511051","11,490356",55.511051,11.490356
+660,Tidemansholm,Tidemandsholm,Nordjylland,Hjørring,Tidemandsholmsvej 180;9830;Tårs,"57,381607","10,190208",57.381607,10.190208
+661,Timgaard,Timgård,Midtjylland,Ringkøbing-Skjern,Tim Kirkevej 13;6980;Tim,"56,198784","8,273955",56.198784,8.273955
+662,Tirsbæk,Tirsbæk,Syddanmark; Syd- og Sønderjylland,Vejle,Tirsbækvej 135;7120;Vejle Øst,"55,713539","9,637566",55.713539,9.637566
+663,Tiselholt,Tiselholt Gods,Syddanmark; Fyn og øer,Svendborg,Tiselholtvej 32;5882;Vejstrup,"55,09845","10,752831",55.09845,10.752831
+664,Tjele,Tjele,Midtjylland,Viborg,Hobro Landevej 90;8830;Tjele,"56,511353","9,611343",56.511353,9.611343
+665,Todbøl,Todbøl Hovedgård,Nordjylland,Thisted,Todbølvej 20;7700;Thisted,"56,918621","8,548933",56.918621,8.548933
+666,Toftholm,Toftholm Gods,Sjælland,Holbæk,Mørkøv Kirkeby 1;4440;Mørkøv,"55,671238","11,515009",55.671238,11.515009
+667,Torbenfeld,Torbenfeld og Orelund Godser,Sjælland,Holbæk,Ringstedvej 50;4440;Mørkøv,"55,63858","11,51773",55.63858,11.51773
+668,Torpegaard,Torpegård,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Torpegårdsvej 33;5792;Årslev,"55,313099","10,519525",55.313099,10.519525
+669,Torstedlund,Torstedlund,Nordjylland,Rebild,Haverslevvej 120;9520;Skørping,"56,806408","9,725709",56.806408,9.725709
+670,Tranekær,Tranekær Gods,Syddanmark; Fyn og øer,Langeland,Slotsgade 86;5953;Tranekær,"55,001663","10,855543",55.001663,10.855543
+671,Trinderup,Trinderup Gods,Nordjylland,Mariagerfjord,Trinderupvej 7;9500;Hobro,"56,607372","9,717365",56.607372,9.717365
+672,Trudsholm (Sjælland),Trudsholm,Sjælland,Lejre,Hvalsøvej 16;4060;Kirke Såby,"55,646664","11,843244",55.646664,11.843244
+673,Trudsholm (Østjylland),Trudsholm,Midtjylland,Randers,Trudsholm Allé 10;8970;Havndal,"56,653088","10,171936",56.653088,10.171936
+674,Tryggevælde,Tryggevælde,Sjælland,Faxe,Køgevej 67;4653;Karise,"55,334877","12,231469",55.334877,12.231469
+675,Trøjborg,Trøjborg Hovedgård,Syddanmark; Syd- og Sønderjylland,Tønder,Trøjborgvej 21;6261;Bredebro,"55,020302","8,755664",55.020302,8.755664
+676,Tulsted,Tulsted,Nordjylland,Rebild,Aspvej 4;9520;Skørping,"56,834126","9,940423",56.834126,9.940423
+677,Tulstrup,Tulstrupgaard,Midtjylland,Viborg,Tingstedvej 22;8850;Bjerringbro,"56,283295","9,855938",56.283295,9.855938
+678,Turebyholm,Turebyholm,Sjælland,Faxe,Turebyholmvej 22;4682;Tureby,"55,346657","12,091017",55.346657,12.091017
+679,Tustrup (Østjylland),Tustrup Hovedgård,Midtjylland,Randers,Tustrupvej 4;8900;Randers,"56,396786","10,188965",56.396786,10.188965
+680,Tustrup (Nordjylland),Tustrup,Nordjylland,Rebild,Tustrupvej 2;9520;Skørping,"56,866646","9,959925",56.866646,9.959925
+681,Tvilumgaard,Tvilumgaard,Midtjylland,Silkeborg,Tvilumgårdsvej 1;8882;Fårvang,"56,255608","9,679867",56.255608,9.679867
+682,Tybjerggaard,Tybjerggård,Sjælland,Næstved,Tybjergvej 20;4160;Herlufmagle,"55,348129","11,80739",55.348129,11.80739
+683,Tybrind,Tybrind,Syddanmark; Fyn og øer,Middelfart,Tybrindvej 49;5592;Ejby,"55,400108","9,865003",55.400108,9.865003
+684,Tyrrestrup,Tyrrestrup,Midtjylland,Horsens,Tyrrestrupvej 41;8700;Horsens,"55,896507","9,968196",55.896507,9.968196
+685,Tøjstrup,Tøystrup Gods,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Blaakærvej 13;5750;Ringe,"55,251747","10,521049",55.251747,10.521049
+686,Tølløsegaard,Tølløse Slots Efterskole,Sjælland,Holbæk,Tølløsevej 97;4340;Tølløse,"55,611908","11,744912",55.611908,11.744912
+687,Taarnborg,Tårnborg Hovedgård,Sjælland,Slagelse,Tårnborgvej 152;4220;Korsør,"55,345898","11,142618",55.345898,11.142618
+688,Taarnholm,Tårnholm Gods,Sjælland,Slagelse,Marsk Stigs Vej 150;4220;Korsør,"55,343491","11,214085",55.343491,11.214085
+689,Taarupgaard,Taarupgaard,Midtjylland,Viborg,Taarupgaard Allé 8;8831;Løgstrup,"56,539707","9,277098",56.539707,9.277098
+690,Udstrup,Udstrup Hovedgård,Midtjylland,Holstebro,Udstrupvej 3;6990;Ulfborg,"56,303905","8,224833",56.303905,8.224833
+691,Uggerslevgaard,Uggerslevgård,Syddanmark; Fyn og øer,Nordfyns,Uggerslevvej 49;5450;Otterup,"55,534225","10,304459",55.534225,10.304459
+692,Ullerup,Ullerup Hovedgaard,Nordjylland,Morsø,Ullerupmark 21;7900;Nykøbing M,"56,863392","8,792434",56.863392,8.792434
+693,Ullerupgaard,Ullerupgård,Nordjylland,Thisted,Aalborgvej 120;7700;Thisted,"56,987854","8,771884",56.987854,8.771884
+694,Ulriksdal,Ulriksdal,Sjælland; Lolland/Falster/Møn,Guldborgsund,Godstedvej 23;4894;Øster Ulslev,"54,721252","11,593306",54.721252,11.593306
+695,Ulriksholm,Ulriksholm Slot,Syddanmark; Fyn og øer,Kerteminde,Ulriksholmvej 96;5300;Kerteminde,"55,422943","10,569531",55.422943,10.569531
+696,Ulstrup (Midtjylland),Ulstrup Slot,Midtjylland,Favrskov,Ulstrup Skovvej 20;8860;Ulstrup,"56,396351","9,791807",56.396351,9.791807
+697,Ulstrup (Nordjylland),Ulstrup,Nordjylland,Thisted,Røde Anes Vej 10;7700;Thisted,"56,907871","8,498793",56.907871,8.498793
+698,Ulsund,Ulfsund,Midtjylland,Lemvig,Ulfsundvej 25;7660;Bækmarksbro,"56,404709","8,234956",56.404709,8.234956
+699,Urup,Urup Landbrug,Midtjylland,Horsens,Stenkærvej 7;8752;Østbirk,"55,948231","9,777158",55.948231,9.777158
+700,Ussinggaard,Ussinggård Gods,Midtjylland,Hedensted,Ussingvej 29;8723;Løsning,"55,834846","9,711046",55.834846,9.711046
+701,Vadskærgaard,Vadskærgaard,Midtjylland,Lemvig,Vadskærvej 7;7620;Lemvig,"56,580372","8,248405",56.580372,8.248405
+702,Valbygaard,Valdbygaard Gods,Sjælland,Slagelse,Valbygårdsvej 88B;4200;Slagelse,"55,425968","11,30573",55.425968,11.30573
+703,Valdemars Slot,Valdemars Slot Gods,Syddanmark; Fyn og øer,Svendborg,Slotsalleen 100;5700;Svendborg,"55,022354","10,653806",55.022354,10.653806
+704,Vallø,Vallø Slot,Sjælland,Stevns,Slotsgade 4;4600;Køge,"55,402477","12,211247",55.402477,12.211247
+705,Valnæsgaard,Valnæs,Sjælland; Lolland/Falster/Møn,Guldborgsund,Valnæsvej 18;4840;Nørre Alslev,"54,937397","11,743765",54.937397,11.743765
+706,Vang,Vang Hovedgård,Nordjylland,Aalborg,Bakmøllevej 241;9400;Nørresundby,"57,142025","9,935914",57.142025,9.935914
+707,Vedbygaard,Vedbygård Gods,Sjælland,Sorø,Hovsøvej 5;4291;Ruds Vedby,"55,544044","11,375124",55.544044,11.375124
+708,Vedelslund,Wedelslund Gods,Midtjylland,Skanderborg,Wedelslundvej 2;8464;Galten,"56,174526","9,916794",56.174526,9.916794
+709,Vedø,Vedø,Midtjylland,Syddjurs,Vedøvej 6;8560;Kolind,"56,379452","10,597149",56.379452,10.597149
+710,Vejbjerggaard,Vejbjerggård,Midtjylland,Struer,Vejbjergvej 3;7600;Struer,"56,558235","8,569264",56.558235,8.569264
+711,Vejrupgaard,Vejrupgaard Gods,Syddanmark; Fyn og øer,Kerteminde,Vejrupskovvej 1;5290;Marslev,"55,375317","10,521256",55.375317,10.521256
+712,Vejstrupgaard,Vejstrupgaard,Syddanmark; Fyn og øer,Svendborg,Vejstrupgaards Allé 1;5882;Vejstrup,"55,10342","10,706154",55.10342,10.706154
+713,Kærgaardsholm,Kærgaardsholm,Nordjylland,Skive,Holstebrovej 486; 7860;Spøttrup,"56,561417","8,854832",56.561417,8.854832
+714,Vemmetofte Kloster,Vemmetofte Kloster,Sjælland,Faxe,Klostervej 3A;4640;Faxe,"55,255356","12,225826",55.255356,12.225826
+715,Vennergaard,Vennergård,Midtjylland,Ringkøbing-Skjern,Holmager 2;6940;Lem St,"56,034828","8,33787",56.034828,8.33787
+716,Vennerslund,Vennerslund Hovedgård,Sjælland; Falster,Guldborgsund,Vennerslundsvej 19;4840;Nørre Alslev,"54,856194","11,801913",54.856194,11.801913
+717,Vestensborg,Vestensborg,Sjælland; Lolland/Falster/Møn,Guldborgsund,Stubbekøbingvej 94;4800;Nykøbing F,"54,778427","11,876083",54.778427,11.876083
+718,Vesterbygaard,Vesterbygaard,Sjælland,Kalundborg,Vesterbygårdvej 20;4490;Jerslev Sjælland,"55,610374","11,27663",55.610374,11.27663
+719,Vestergaard,Vestergård,Syddanmark; Fyn og øer,Langeland,Vestergårdsvej 25A;5900;Rudkøbing,"54,854755","10,698964",54.854755,10.698964
+720,Vestervigkloster,Vestervig Kloster,Nordjylland,Thisted,Klostergade 2;7770;Vestervig,"56,772144","8,315097",56.772144,8.315097
+721,Vestrupgaard,Vestrupgaard,Nordjylland,Jammerbugt,Vestrupvej 35;9493;Saltum,"57,264011","9,668596",57.264011,9.668596
+722,Vibygaard,Vibygaard,Sjælland,Roskilde,Vibygårdsvej 33;4130;Viby Sj.,"55,562477","12,021532",55.562477,12.021532
+723,Vildmosegaard,Lille Vildmosecentret,Nordjylland,Aalborg,Birkesøvej 16;9280;Storvorde,"56,887901","10,221347",56.887901,10.221347
+724,Vilhelmsborg,Det Nationale Hestesportscenter Vilhelmsborg,Midtjylland,Aarhus,Bedervej 101;8320;Mårslet,"56,068054","10,189106",56.068054,10.189106
+725,Villerup,Villerup Hovedgård,Nordjylland,Hjørring,Villerupvej 80;9800;Hjørring,"57,458466","9,869232",57.458466,9.869232
+726,Villestrup,Willestrup Gods,Nordjylland,Mariagerfjord,Willestrupvej 1;9510;Arden,"56,764202","9,953376",56.764202,9.953376
+727,Vinderslevgaard,Vinderslevholm,Midtjylland,Silkeborg,Vinderslevholmvej 56A-B;8620;Kjellerup,"56,253922","9,483435",56.253922,9.483435
+728,Vindum Overgaard,Vindumovergaard,Midtjylland,Viborg,Vindumovergaardsvej 6;8850;Bjerringbro,"56,377743","9,573381",56.377743,9.573381
+729,Vingegaard,Vingegaard,Midtjylland,Viborg,Hobro Landevej 120;8830;Tjele,"56,535664","9,675916",56.535664,9.675916
+730,Vintersborg,Vintersborg,Sjælland; Lolland/Falster/Møn,Lolland,Bøgetvej 91;4913;Horslunde,"54,935463","11,193599",54.935463,11.193599
+731,Visborggaard,Visborggaard Slot,Nordjylland,Mariagerfjord,Visborggaard Allé 39;9560;Hadsund,"56,74416","10,152038",56.74416,10.152038
+732,Viskum,Viskum Hovedgård,Midtjylland,Viborg,Østervangsvej 28;8830;Tjele,"56,450321","9,586995",56.450321,9.586995
+733,Visselbjerg,Visselbjerggård,Syddanmark; Syd- og Sønderjylland,Varde,Visselbjergvej 30;6800;Varde,"55,592865","8,383306",55.592865,8.383306
+734,Vitskøl Kloster,Vitskøl Kloster,Nordjylland,Vesthimmerlands,Viborgvej 475;9681;Ranum,"56,868793","9,213113",56.868793,9.213113
+735,Viumgaard,Viumgård Hovedgård,Midtjylland,Ringkøbing-Skjern,Viumgårdsvej 2;6893;Hemmet,"55,814667","8,388802",55.814667,8.388802
+736,Voergaard,Voergaard Slot,Nordjylland,Brønderslev,Voergård 6;9330;Dronninglund,"57,242542","10,335404",57.242542,10.335404
+737,Vognserup,Vognserup Gods,Sjælland,Holbæk,Vognserup 3;4420;Regstrup,"55,708534","11,557725",55.708534,11.557725
+738,Voldbjerg,Voldbjerg,Midtjylland,Ringkøbing-Skjern,Voldbjergvej 2;6950;Ringkøbing,"56,128578","8,276177",56.128578,8.276177
+739,Volstrup (Midtjylland),Volstrup,Midtjylland,Struer,Volstrupvej 2;7560;Hjerm,"56,465378","8,658783",56.465378,8.658783
+740,Volstrup (Nordjylland),Volstrup,Nordjylland,Rebild,Rosbjergvej 4;9500;Hobro,"56,681808","9,709349",56.681808,9.709349
+741,Vorgaard,Vorgaard Hovedgaard,Nordjylland,Rebild,Svanfolkvej 1;9574;Bælum,"56,83884","10,090802",56.83884,10.090802
+742,Vosnæs,Vosnæs Gods,Midtjylland,Aarhus,Vosnæsvej 9;8541;Skødstrup,"56,283566","10,354419",56.283566,10.354419
+743,Vrejlev Kloster,Vrejlev Kloster,Nordjylland,Hjørring,Vrejlev Kloster 3;9760;Vrå,"57,361492","10,002903",57.361492,10.002903
+744,Vaabensholm,Våbensholm,Midtjylland,Horsens,Våbensholmvej 8;8740;Brædstrup,"55,93428","9,586135",55.93428,9.586135
+745,Vaar,Waar Hovedgaard,Nordjylland,Aalborg,Vår Skovvej 6;9240;Nibe,"57,001652","9,451831",57.001652,9.451831
+746,Vaarskov,Vårskovgård,Sjælland; Lolland/Falster/Møn,Lolland,Vårskovvej 13;4941;Bandholm,"54,824657","11,465158",54.824657,11.465158
+747,Wedellsborg,Wedellsborg,Syddanmark; Fyn og øer,Middelfart,Tybrindvej 2;5592;Ejby,"55,367313","9,819829",55.367313,9.819829
+748,Williamsborg,Williamsborg,Midtjylland,Hedensted,Gammel Vejlevej 2;8721;Daugård,"55,734024","9,717112",55.734024,9.717112
+749,Øbjerggaard,Øbjerggård,Sjælland,Vordingborg,Øbjerggårds Allé 20;4750;Lundby,"55,116138","11,828876",55.116138,11.828876
+750,Ødemark,Ødemark Gods,Sjælland,Sorø,Ødemarksvej 3;4190;Munke Bjergby,"55,478485","11,478641",55.478485,11.478641
+751,Øland,Øland,Nordjylland,Thisted,Hørstedvej 12;7752;Snedsted,"56,872944","8,540041",56.872944,8.540041
+752,Øllingesøgaard,Øllingsøe Gods,Sjælland; Lolland/Falster/Møn,Lolland,Græshavevej 33;4920;Søllested,"54,783787","11,223257",54.783787,11.223257
+753,Ølstedgaard,Elmehøjen,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Ølstedgårdsvej 7;5672;Broby,"55,246758","10,307283",55.246758,10.307283
+754,Ølufgaard,Øllufgård,Syddanmark; Syd- og Sønderjylland,Esbjerg,Ølufgårdsvej 33;6715;Esbjerg N,"55,547966","8,554357",55.547966,8.554357
+755,Ørbygaard,Ørbygård,Sjælland; Lolland/Falster/Møn,Lolland,Birketvej 366;4952;Stokkemarke,"54,879353","11,36868",54.879353,11.36868
+756,Ørbækgaard,Ørbækgård,Midtjylland,Ringkøbing-Skjern,Gammel Borrisvej 14;6880;Tarm,"56,424416","10,683281",56.424416,10.683281
+757,Ørbæklunde,Ørbæklunde Hovedgård,Fyn,Nyborg,Ørbæklundevej 1;5853;Ørbæk,"55,245441","10,66936",55.245441,10.66936
+758,Ørndrup (Nordjylland),Ørndrup Hovedgård,Nordjylland,Vesthimmerlands,Ørndrupvej 26;9640;Farsø,"56,851585","9,375051",56.851585,9.375051
+759,Ørndrup (Mors),Ørndrup Hovedgaard,Nordjylland,Morsø,Ørndrupvej 123;7960;Karby,"56,783913","8,562745",56.783913,8.562745
+760,Ørnhoved,Ørnhoved,Midtjylland,Herning,Ørnhovedvej 21;7400;Herning,"56,176571","8,88752",56.176571,8.88752
+761,Ørritslevgaard,Ørritslevgaard,Syddanmark; Fyn og øer,Nordfyns,Strandvejen 151;5450;Otterup,"55,524387","10,418912",55.524387,10.418912
+762,Ørslevkloster,Ørslev Kloster,Midtjylland,Skive,Hejlskovvej 15;7840;Højslev,"56,597618","9,217547",56.597618,9.217547
+763,Ørumgaard (Thisted),Gammel Ørumgaard,Nordjylland,Thisted,Kystvejen 82;7755;Bedsted Thy,"56,81583","8,345735",56.81583,8.345735
+764,Ørumgaard,Ørumgaard,Midtjylland,Hedensted,Sønderskovvej 5;8721;Daugård,"55,73296","9,748157",55.73296,9.748157
+765,Østergaard (Østjylland/Aarhus),Østergaard,Midtjylland,Aarhus,Østergårdsvej 171;8340;Malling,"56,028175","10,155672",56.028175,10.155672
+766,Østergaard (Midtjylland),Østergård,Midtjylland,Skive,Østergårdsvej 1;7870;Roslev,"56,763462","8,988645",56.763462,8.988645
+767,Østergaard (Fyn),Østergård,Syddanmark; Fyn og øer,Kerteminde,Østergårdsvej 25A;5330;Munkebo,"55,426418","10,53829",55.426418,10.53829
+768,Østergaard (Østjylland/Favrskov),Østergaard Hovedgaard,Midtjylland,Favrskov,Østergårdsvej 5;8870;Langå,"56,378216","9,880901",56.378216,9.880901
+769,Østrupgaard (Fyn/Faaborg-Sydfyn),Østrupgård,Syddanmark; Fyn og øer,Faaborg-Midtfyn,Østrup 38;5600;Faaborg,"55,170803","10,240556",55.170803,10.240556
+770,Østrupgaard (Fyn/Nordfyns),Østruplund,Syddanmark; Fyn og øer,Nordfyns,Klintebjergvej 75;5450;Otterup,"55,494499","10,419224",55.494499,10.419224
+771,Aabjerg,Aabjerg,Midtjylland,Ringkøbing-Skjern,Kæret 7;6990;Ulfborg,"56,240406","8,209034",56.240406,8.209034
+772,Aagaard (Sjælland),Aagaard Gods,Sjælland,Kalundborg,Ågårdsvej 11B;4281;Gørlev,"55,558975","11,211486",55.558975,11.211486
+773,Aagaard (Nordjylland),Aagaard,Nordjylland,Jammerbugt,Aggersundvej 79;9690;Fjerritslev,"57,077427","9,266487",57.077427,9.266487
+774,Aakær,Aakær Gods,Midtjylland,Odder,Aakjærvej 100;8300;Odder,"55,91069","10,106135",55.91069,10.106135
+775,Aalegaard,Aalegaard,Nordjylland,Jammerbugt,Ålegårdsvej 76;9690;Fjerritslev,"57,080788","9,328325",57.080788,9.328325
+776,Aalholm,Aalholm Gods,Sjælland; Lolland/Falster/Møn,Guldborgsund,Aalholm Parkvej 7;4880;Nysted,"54,664604","11,723447",54.664604,11.723447
+777,Aalstrup,Ålstrup,Sjælland; Lolland/Falster/Møn,Lolland,Rødbyvej 45;4920;Søllested,"54,770164","11,302082",54.770164,11.302082
+778,Aaløkkegaard,Aaløkkegaard,Syddanmark; Fyn og øer,Odense,Åløkke Allé 35;5000;Odense C,"55,404408","10,368745",55.404408,10.368745
+779,Aarupgaard (Sønderjylland),Årupgård,Syddanmark; Syd- og Sønderjylland,Aabenraa,Årup Skovvej 60;6200;Aabenraa,"55,009727","9,405357",55.009727,9.405357
+780,Aas,Aas Hovedgaard,Nordjylland,Hjørring,Åsmarkvej 41;9830;Tårs,"57,34269","10,094915",57.34269,10.094915
+781,Aastrup (Sjælland),Aastrup Kloster,Sjælland,Lejre,Aastrupvej 63;4340;Tølløse,"55,620522","11,80511",55.620522,11.80511
+782,Aastrup (Nordjylland),Åstrup,Nordjylland,Hjørring,Åstrupvej 400;9800;Hjørring,"57,437176","9,934731",57.437176,9.934731
+783,Brandholm,Brandholm,,,,"55,922337","9,099929",55.922337,9.099929
+784,Bygumgaard,Bygumgaard,,,,"56,552616","9,641399",56.552616,9.641399
+785,Gunderstedgaard,Gunderstedgaard,,,,"56,903759","9,478713",56.903759,9.478713
+786,Henneberg,Henneberg,,,,"55,531628","9,63083",55.531628,9.63083
+787,Krogsgaard (Vestjylland/Esbjerg),Krogsgaard (Vestjylland/Esbjerg),,,,"55,463596","8,56322",55.463596,8.56322
+788,Krogsgaard (Vestjylland/Lemvig),Krogsgaard (Vestjylland/Lemvig),,,,"56,531895","8,429686",56.531895,8.429686
+789,Mariager Kloster,Mariager Kloster,,,,"56,647831","9,978216",56.647831,9.978216
+790,Rugballegaard,Rugballegaard,,,,"55,733105","9,46418",55.733105,9.46418
+791,Sønderhoved,Sønderhoved,,,,"55,841236","9,166964",55.841236,9.166964
+792,Tanderup,Tanderup,,,,"56,111221","8,871237",56.111221,8.871237
+793,Vejlegaard,Vejlegaard,,,,"55,279312","10,303346",55.279312,10.303346
+794,Søgaarde,Søgaarde,,,,"56,917686","8,885251",56.917686,8.885251
+795,Mjelsgaard,Mjelsgaard,,,,"55,030632","9,71655",55.030632,9.71655
+796,Aastrupgaard,Aastrupgaard,,,,"55,259377","9,541826",55.259377,9.541826
+797,Hjortspring,Hjortspring,,,,"55,008266","9,848256",55.008266,9.848256
+798,Hesbjerg,Hesbjerg,,,,"55,373428","10,209244",55.373428,10.209244
+799,Kølbygaard,Kølbygaard,,,,"57,034397","8,811192",57.034397,8.811192
+800,Ryegaard,Ryegaard,,,,"55,672073","11,866019",55.672073,11.866019
+801,Sohnsgaardsholm,Sohngaardsholm Slot,Nordjylland,Aalborg,Borgmester Jørgensens Vej 1;9000;Aalborg,"57,03157","9,94453",57.03157,9.94453
+803,Graasten,Gråsten Slot,Syddanmark; Syd- og Sønderjylland,Sønderborg,Graasten Slot 1A;6300;Gråsten,"54,926163","9,596076",54.926163,9.596076
+804,Hastrup,Hastrup,,,,"55,942249","9,25001",55.942249,9.25001
+805,Ballegaard (Midtjylland),Ballegaard (Midtjylland),,,,"56,678596","10,083658",56.678596,10.083658
+806,Østergaard (Fjellerup),Østergaard (Fjellerup),,,,"56,504925","10,599464",56.504925,10.599464
+808,Rødslet,Rødslet,,,,"57,090313","9,84516",57.090313,9.84516
+900,Sophienlund,Sophienlund Gods,Sjælland,Gribskov,Ferlevej 74;3250;Gilleleje,,,,
+901,Stenshede,Lille Stenshede,Nordjylland,Frederikshavn,Krættrupvej 19;9300;Sæby,,,#VALUE!,#VALUE!
+902,Vellumgaard,Vellumgaard,Midtjylland,Skive,Nyholmvej 2;7860;Spøttrup,,,,
+903,Aalebækgaard,Aalebækgaard,Sjælland; Lolland/Falster/Møn,Vordingborg,Birkedalsvej 5;4791;Borre,,,,
